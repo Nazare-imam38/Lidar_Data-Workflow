@@ -1,0 +1,5135 @@
+{
+  "stats": {
+    "total_trees": 79780,
+    "avg_height": 17.94,
+    "max_height": 39.33,
+    "total_biomass_mg": 575.82,
+    "avg_crown_area": 10.01
+  },
+  "height_distribution": [
+    {
+      "bin": "0-2",
+      "count": 0
+    },
+    {
+      "bin": "2-4",
+      "count": 0
+    },
+    {
+      "bin": "4-6",
+      "count": 2983
+    },
+    {
+      "bin": "6-8",
+      "count": 4830
+    },
+    {
+      "bin": "8-10",
+      "count": 4261
+    },
+    {
+      "bin": "10-12",
+      "count": 4278
+    },
+    {
+      "bin": "12-14",
+      "count": 4678
+    },
+    {
+      "bin": "14-16",
+      "count": 5520
+    },
+    {
+      "bin": "16-18",
+      "count": 7273
+    },
+    {
+      "bin": "18-20",
+      "count": 10445
+    },
+    {
+      "bin": "20-22",
+      "count": 12542
+    },
+    {
+      "bin": "22-24",
+      "count": 10339
+    },
+    {
+      "bin": "24-26",
+      "count": 7472
+    },
+    {
+      "bin": "26-28",
+      "count": 3732
+    },
+    {
+      "bin": "28-30",
+      "count": 1075
+    },
+    {
+      "bin": "30-32",
+      "count": 266
+    },
+    {
+      "bin": "32-34",
+      "count": 70
+    },
+    {
+      "bin": "34-36",
+      "count": 11
+    },
+    {
+      "bin": "36-38",
+      "count": 1
+    },
+    {
+      "bin": "38-40",
+      "count": 4
+    }
+  ],
+  "scatter_sample": [
+    {
+      "MaxHeight_m": 9.33,
+      "CrownArea_m2": 0.325,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 12.59,
+      "CrownArea_m2": 2.115,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 18.56,
+      "CrownArea_m2": 5.466,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 21.96,
+      "CrownArea_m2": 17.085,
+      "EstBiomass_Mg": 0.0124
+    },
+    {
+      "MaxHeight_m": 13.38,
+      "CrownArea_m2": 14.015,
+      "EstBiomass_Mg": 0.0067
+    },
+    {
+      "MaxHeight_m": 6.47,
+      "CrownArea_m2": 1.952,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 13.8,
+      "CrownArea_m2": 5.233,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 16.05,
+      "CrownArea_m2": 6.914,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 20.55,
+      "CrownArea_m2": 16.909,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 6.19,
+      "CrownArea_m2": 0.191,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 6.03,
+      "CrownArea_m2": 0.097,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 21.36,
+      "CrownArea_m2": 16.267,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 5.85,
+      "CrownArea_m2": 4.502,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 21.66,
+      "CrownArea_m2": 6.773,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 23.91,
+      "CrownArea_m2": 11.321,
+      "EstBiomass_Mg": 0.0093
+    },
+    {
+      "MaxHeight_m": 24.51,
+      "CrownArea_m2": 9.913,
+      "EstBiomass_Mg": 0.0084
+    },
+    {
+      "MaxHeight_m": 17.41,
+      "CrownArea_m2": 5.356,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 22.11,
+      "CrownArea_m2": 7.711,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 16.22,
+      "CrownArea_m2": 5.628,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 13.53,
+      "CrownArea_m2": 11.731,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 14.52,
+      "CrownArea_m2": 5.538,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 5.91,
+      "CrownArea_m2": 2.058,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 24.22,
+      "CrownArea_m2": 8.107,
+      "EstBiomass_Mg": 0.0069
+    },
+    {
+      "MaxHeight_m": 11.78,
+      "CrownArea_m2": 2.843,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 24.85,
+      "CrownArea_m2": 17.602,
+      "EstBiomass_Mg": 0.0143
+    },
+    {
+      "MaxHeight_m": 19.86,
+      "CrownArea_m2": 5.088,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 16.94,
+      "CrownArea_m2": 4.049,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 17.87,
+      "CrownArea_m2": 1.616,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 6.03,
+      "CrownArea_m2": 0.393,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 25.71,
+      "CrownArea_m2": 23.55,
+      "EstBiomass_Mg": 0.0191
+    },
+    {
+      "MaxHeight_m": 20.91,
+      "CrownArea_m2": 9.192,
+      "EstBiomass_Mg": 0.0068
+    },
+    {
+      "MaxHeight_m": 5.06,
+      "CrownArea_m2": 0.552,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 9.74,
+      "CrownArea_m2": 0.4,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 22.94,
+      "CrownArea_m2": 14.22,
+      "EstBiomass_Mg": 0.011
+    },
+    {
+      "MaxHeight_m": 24.94,
+      "CrownArea_m2": 4.246,
+      "EstBiomass_Mg": 0.004
+    },
+    {
+      "MaxHeight_m": 23.51,
+      "CrownArea_m2": 16.776,
+      "EstBiomass_Mg": 0.013
+    },
+    {
+      "MaxHeight_m": 7.71,
+      "CrownArea_m2": 0.132,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.8,
+      "CrownArea_m2": 7.442,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 19.08,
+      "CrownArea_m2": 1.353,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 11.36,
+      "CrownArea_m2": 8.347,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 11.35,
+      "CrownArea_m2": 2.232,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 10.86,
+      "CrownArea_m2": 4.409,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 16.98,
+      "CrownArea_m2": 6.306,
+      "EstBiomass_Mg": 0.004
+    },
+    {
+      "MaxHeight_m": 11.09,
+      "CrownArea_m2": 5.254,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 12.71,
+      "CrownArea_m2": 2.449,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 5.37,
+      "CrownArea_m2": 5.133,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 11.88,
+      "CrownArea_m2": 4.914,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 6.22,
+      "CrownArea_m2": 4.318,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 23.81,
+      "CrownArea_m2": 19.551,
+      "EstBiomass_Mg": 0.0151
+    },
+    {
+      "MaxHeight_m": 21.69,
+      "CrownArea_m2": 19.295,
+      "EstBiomass_Mg": 0.0137
+    },
+    {
+      "MaxHeight_m": 5.93,
+      "CrownArea_m2": 1.248,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 7.26,
+      "CrownArea_m2": 0.581,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 18.02,
+      "CrownArea_m2": 1.34,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 10.49,
+      "CrownArea_m2": 3.469,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 5.29,
+      "CrownArea_m2": 5.136,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 21.8,
+      "CrownArea_m2": 17.834,
+      "EstBiomass_Mg": 0.0128
+    },
+    {
+      "MaxHeight_m": 5.8,
+      "CrownArea_m2": 0.152,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 14.08,
+      "CrownArea_m2": 5.317,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 9.24,
+      "CrownArea_m2": 1.07,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 9.47,
+      "CrownArea_m2": 0.332,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 25.29,
+      "CrownArea_m2": 13.575,
+      "EstBiomass_Mg": 0.0115
+    },
+    {
+      "MaxHeight_m": 25.33,
+      "CrownArea_m2": 23.691,
+      "EstBiomass_Mg": 0.019
+    },
+    {
+      "MaxHeight_m": 17.44,
+      "CrownArea_m2": 7.403,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 16.6,
+      "CrownArea_m2": 1.331,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 15.9,
+      "CrownArea_m2": 4.145,
+      "EstBiomass_Mg": 0.0026
+    },
+    {
+      "MaxHeight_m": 21.95,
+      "CrownArea_m2": 13.905,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 14.76,
+      "CrownArea_m2": 6.176,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 28.63,
+      "CrownArea_m2": 11.376,
+      "EstBiomass_Mg": 0.011
+    },
+    {
+      "MaxHeight_m": 22.96,
+      "CrownArea_m2": 24.305,
+      "EstBiomass_Mg": 0.0178
+    },
+    {
+      "MaxHeight_m": 16.52,
+      "CrownArea_m2": 0.937,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 17.91,
+      "CrownArea_m2": 10.17,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 20.1,
+      "CrownArea_m2": 18.376,
+      "EstBiomass_Mg": 0.0123
+    },
+    {
+      "MaxHeight_m": 17.12,
+      "CrownArea_m2": 9.29,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 6.07,
+      "CrownArea_m2": 0.216,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 14.89,
+      "CrownArea_m2": 4.753,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 9.86,
+      "CrownArea_m2": 0.97,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 22.09,
+      "CrownArea_m2": 19.904,
+      "EstBiomass_Mg": 0.0144
+    },
+    {
+      "MaxHeight_m": 14.44,
+      "CrownArea_m2": 8.185,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 20.96,
+      "CrownArea_m2": 19.764,
+      "EstBiomass_Mg": 0.0136
+    },
+    {
+      "MaxHeight_m": 22.87,
+      "CrownArea_m2": 10.561,
+      "EstBiomass_Mg": 0.0084
+    },
+    {
+      "MaxHeight_m": 18.34,
+      "CrownArea_m2": 11.722,
+      "EstBiomass_Mg": 0.0075
+    },
+    {
+      "MaxHeight_m": 12.48,
+      "CrownArea_m2": 5.683,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 18.38,
+      "CrownArea_m2": 16.062,
+      "EstBiomass_Mg": 0.01
+    },
+    {
+      "MaxHeight_m": 16.6,
+      "CrownArea_m2": 7.023,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 13.88,
+      "CrownArea_m2": 3.358,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 17,
+      "CrownArea_m2": 8.401,
+      "EstBiomass_Mg": 0.0052
+    },
+    {
+      "MaxHeight_m": 17.33,
+      "CrownArea_m2": 5.709,
+      "EstBiomass_Mg": 0.0037
+    },
+    {
+      "MaxHeight_m": 6.14,
+      "CrownArea_m2": 0.02,
+      "EstBiomass_Mg": 9.0872e-06
+    },
+    {
+      "MaxHeight_m": 20.42,
+      "CrownArea_m2": 9.771,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 18.46,
+      "CrownArea_m2": 6.526,
+      "EstBiomass_Mg": 0.0045
+    },
+    {
+      "MaxHeight_m": 18.3,
+      "CrownArea_m2": 4.2,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 10.45,
+      "CrownArea_m2": 0.827,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 19.5,
+      "CrownArea_m2": 12.428,
+      "EstBiomass_Mg": 0.0084
+    },
+    {
+      "MaxHeight_m": 21.3,
+      "CrownArea_m2": 16.858,
+      "EstBiomass_Mg": 0.012
+    },
+    {
+      "MaxHeight_m": 23.58,
+      "CrownArea_m2": 15.702,
+      "EstBiomass_Mg": 0.0123
+    },
+    {
+      "MaxHeight_m": 17.26,
+      "CrownArea_m2": 11.546,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 5.88,
+      "CrownArea_m2": 0.182,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 25.2,
+      "CrownArea_m2": 16.56,
+      "EstBiomass_Mg": 0.0137
+    },
+    {
+      "MaxHeight_m": 26.24,
+      "CrownArea_m2": 12.75,
+      "EstBiomass_Mg": 0.0112
+    },
+    {
+      "MaxHeight_m": 6.82,
+      "CrownArea_m2": 1.189,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 20.89,
+      "CrownArea_m2": 13.726,
+      "EstBiomass_Mg": 0.0098
+    },
+    {
+      "MaxHeight_m": 11.28,
+      "CrownArea_m2": 0.684,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 21.76,
+      "CrownArea_m2": 15.9,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 21.12,
+      "CrownArea_m2": 9.286,
+      "EstBiomass_Mg": 0.0069
+    },
+    {
+      "MaxHeight_m": 12.81,
+      "CrownArea_m2": 1.193,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 22.43,
+      "CrownArea_m2": 15.705,
+      "EstBiomass_Mg": 0.0118
+    },
+    {
+      "MaxHeight_m": 20.79,
+      "CrownArea_m2": 9.635,
+      "EstBiomass_Mg": 0.0071
+    },
+    {
+      "MaxHeight_m": 14.45,
+      "CrownArea_m2": 0.522,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 20.32,
+      "CrownArea_m2": 17.043,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 21.52,
+      "CrownArea_m2": 24.019,
+      "EstBiomass_Mg": 0.0166
+    },
+    {
+      "MaxHeight_m": 26.88,
+      "CrownArea_m2": 31.011,
+      "EstBiomass_Mg": 0.0255
+    },
+    {
+      "MaxHeight_m": 11.84,
+      "CrownArea_m2": 0.832,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 6.26,
+      "CrownArea_m2": 0.44,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 28.56,
+      "CrownArea_m2": 4.7,
+      "EstBiomass_Mg": 0.0049
+    },
+    {
+      "MaxHeight_m": 19.93,
+      "CrownArea_m2": 12.373,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 16.94,
+      "CrownArea_m2": 4.463,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 22.65,
+      "CrownArea_m2": 11.443,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 6.79,
+      "CrownArea_m2": 1.919,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 19.27,
+      "CrownArea_m2": 9.88,
+      "EstBiomass_Mg": 0.0068
+    },
+    {
+      "MaxHeight_m": 16.05,
+      "CrownArea_m2": 8.383,
+      "EstBiomass_Mg": 0.0049
+    },
+    {
+      "MaxHeight_m": 20.37,
+      "CrownArea_m2": 6.269,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 15.12,
+      "CrownArea_m2": 7.558,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 6.65,
+      "CrownArea_m2": 0.22,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 19.98,
+      "CrownArea_m2": 12.224,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 6.26,
+      "CrownArea_m2": 0.382,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.27,
+      "CrownArea_m2": 5.093,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 25.52,
+      "CrownArea_m2": 14.571,
+      "EstBiomass_Mg": 0.0123
+    },
+    {
+      "MaxHeight_m": 25.78,
+      "CrownArea_m2": 30.517,
+      "EstBiomass_Mg": 0.0242
+    },
+    {
+      "MaxHeight_m": 23.53,
+      "CrownArea_m2": 12.957,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 27.39,
+      "CrownArea_m2": 11.254,
+      "EstBiomass_Mg": 0.0104
+    },
+    {
+      "MaxHeight_m": 8.53,
+      "CrownArea_m2": 1.005,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 20.87,
+      "CrownArea_m2": 4.395,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 14.83,
+      "CrownArea_m2": 1.531,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 23.16,
+      "CrownArea_m2": 13.015,
+      "EstBiomass_Mg": 0.0102
+    },
+    {
+      "MaxHeight_m": 10.94,
+      "CrownArea_m2": 2.672,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 18.86,
+      "CrownArea_m2": 3.57,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 20.68,
+      "CrownArea_m2": 14.265,
+      "EstBiomass_Mg": 0.01
+    },
+    {
+      "MaxHeight_m": 11.2,
+      "CrownArea_m2": 0.329,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 15.44,
+      "CrownArea_m2": 8.775,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 21.47,
+      "CrownArea_m2": 12.175,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 10.41,
+      "CrownArea_m2": 0.79,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 26.93,
+      "CrownArea_m2": 24.311,
+      "EstBiomass_Mg": 0.0205
+    },
+    {
+      "MaxHeight_m": 17.51,
+      "CrownArea_m2": 4.019,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 18.42,
+      "CrownArea_m2": 7.439,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 22.71,
+      "CrownArea_m2": 31.962,
+      "EstBiomass_Mg": 0.0225
+    },
+    {
+      "MaxHeight_m": 17.94,
+      "CrownArea_m2": 7.218,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 22.58,
+      "CrownArea_m2": 21.761,
+      "EstBiomass_Mg": 0.0159
+    },
+    {
+      "MaxHeight_m": 22.84,
+      "CrownArea_m2": 18.777,
+      "EstBiomass_Mg": 0.014
+    },
+    {
+      "MaxHeight_m": 17.97,
+      "CrownArea_m2": 2.318,
+      "EstBiomass_Mg": 0.0017
+    },
+    {
+      "MaxHeight_m": 7.99,
+      "CrownArea_m2": 2.198,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 27.59,
+      "CrownArea_m2": 11.654,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 15,
+      "CrownArea_m2": 4.885,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 28.24,
+      "CrownArea_m2": 32.01,
+      "EstBiomass_Mg": 0.0275
+    },
+    {
+      "MaxHeight_m": 25.22,
+      "CrownArea_m2": 28.412,
+      "EstBiomass_Mg": 0.0223
+    },
+    {
+      "MaxHeight_m": 23.25,
+      "CrownArea_m2": 22.791,
+      "EstBiomass_Mg": 0.017
+    },
+    {
+      "MaxHeight_m": 13.49,
+      "CrownArea_m2": 11.167,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 25.23,
+      "CrownArea_m2": 16.695,
+      "EstBiomass_Mg": 0.0138
+    },
+    {
+      "MaxHeight_m": 19.96,
+      "CrownArea_m2": 9.646,
+      "EstBiomass_Mg": 0.0068
+    },
+    {
+      "MaxHeight_m": 17.71,
+      "CrownArea_m2": 7.186,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 22.41,
+      "CrownArea_m2": 7.283,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 12.98,
+      "CrownArea_m2": 6.849,
+      "EstBiomass_Mg": 0.0034
+    },
+    {
+      "MaxHeight_m": 7.1,
+      "CrownArea_m2": 1.203,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 12.79,
+      "CrownArea_m2": 7.404,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 25.56,
+      "CrownArea_m2": 16.835,
+      "EstBiomass_Mg": 0.0141
+    },
+    {
+      "MaxHeight_m": 23.4,
+      "CrownArea_m2": 16.169,
+      "EstBiomass_Mg": 0.0125
+    },
+    {
+      "MaxHeight_m": 19,
+      "CrownArea_m2": 12.667,
+      "EstBiomass_Mg": 0.0083
+    },
+    {
+      "MaxHeight_m": 16.91,
+      "CrownArea_m2": 15.938,
+      "EstBiomass_Mg": 0.0092
+    },
+    {
+      "MaxHeight_m": 22.29,
+      "CrownArea_m2": 14.053,
+      "EstBiomass_Mg": 0.0106
+    },
+    {
+      "MaxHeight_m": 19.64,
+      "CrownArea_m2": 8.052,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 16.01,
+      "CrownArea_m2": 3.053,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 17.7,
+      "CrownArea_m2": 3.286,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 26.18,
+      "CrownArea_m2": 12.81,
+      "EstBiomass_Mg": 0.0112
+    },
+    {
+      "MaxHeight_m": 16.21,
+      "CrownArea_m2": 2.379,
+      "EstBiomass_Mg": 0.0016
+    },
+    {
+      "MaxHeight_m": 24.92,
+      "CrownArea_m2": 16.294,
+      "EstBiomass_Mg": 0.0134
+    },
+    {
+      "MaxHeight_m": 9.46,
+      "CrownArea_m2": 0.614,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 23.85,
+      "CrownArea_m2": 16.294,
+      "EstBiomass_Mg": 0.0128
+    },
+    {
+      "MaxHeight_m": 20.95,
+      "CrownArea_m2": 6.664,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 24.81,
+      "CrownArea_m2": 10.476,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 14.77,
+      "CrownArea_m2": 4.421,
+      "EstBiomass_Mg": 0.0026
+    },
+    {
+      "MaxHeight_m": 16.92,
+      "CrownArea_m2": 4.771,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 23.59,
+      "CrownArea_m2": 11.11,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 13.28,
+      "CrownArea_m2": 5.153,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 25.87,
+      "CrownArea_m2": 20.831,
+      "EstBiomass_Mg": 0.0172
+    },
+    {
+      "MaxHeight_m": 6.23,
+      "CrownArea_m2": 2.98,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 22.01,
+      "CrownArea_m2": 4.977,
+      "EstBiomass_Mg": 0.0041
+    },
+    {
+      "MaxHeight_m": 25.36,
+      "CrownArea_m2": 12.62,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 21.04,
+      "CrownArea_m2": 16.81,
+      "EstBiomass_Mg": 0.0118
+    },
+    {
+      "MaxHeight_m": 17.69,
+      "CrownArea_m2": 9.386,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 9.85,
+      "CrownArea_m2": 2.709,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 12.32,
+      "CrownArea_m2": 5.355,
+      "EstBiomass_Mg": 0.0026
+    },
+    {
+      "MaxHeight_m": 27.85,
+      "CrownArea_m2": 9.171,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 7.58,
+      "CrownArea_m2": 0.629,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 22.53,
+      "CrownArea_m2": 3.822,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 18.16,
+      "CrownArea_m2": 14.255,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 24.95,
+      "CrownArea_m2": 8.436,
+      "EstBiomass_Mg": 0.0074
+    },
+    {
+      "MaxHeight_m": 20.23,
+      "CrownArea_m2": 7.219,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 16.28,
+      "CrownArea_m2": 6.346,
+      "EstBiomass_Mg": 0.0039
+    },
+    {
+      "MaxHeight_m": 21.66,
+      "CrownArea_m2": 6.836,
+      "EstBiomass_Mg": 0.0054
+    },
+    {
+      "MaxHeight_m": 12.63,
+      "CrownArea_m2": 3.361,
+      "EstBiomass_Mg": 0.0018
+    },
+    {
+      "MaxHeight_m": 24.22,
+      "CrownArea_m2": 14.729,
+      "EstBiomass_Mg": 0.0119
+    },
+    {
+      "MaxHeight_m": 19.8,
+      "CrownArea_m2": 10.865,
+      "EstBiomass_Mg": 0.0075
+    },
+    {
+      "MaxHeight_m": 28.61,
+      "CrownArea_m2": 11.056,
+      "EstBiomass_Mg": 0.0107
+    },
+    {
+      "MaxHeight_m": 17.52,
+      "CrownArea_m2": 3.922,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 19.07,
+      "CrownArea_m2": 12.37,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 18.7,
+      "CrownArea_m2": 5.499,
+      "EstBiomass_Mg": 0.0039
+    },
+    {
+      "MaxHeight_m": 22,
+      "CrownArea_m2": 9.034,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 11.57,
+      "CrownArea_m2": 3.15,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 19.93,
+      "CrownArea_m2": 10.186,
+      "EstBiomass_Mg": 0.0072
+    },
+    {
+      "MaxHeight_m": 7.81,
+      "CrownArea_m2": 1.417,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 14.34,
+      "CrownArea_m2": 1.607,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 21.2,
+      "CrownArea_m2": 8.907,
+      "EstBiomass_Mg": 0.0067
+    },
+    {
+      "MaxHeight_m": 25.17,
+      "CrownArea_m2": 13.969,
+      "EstBiomass_Mg": 0.0117
+    },
+    {
+      "MaxHeight_m": 27.31,
+      "CrownArea_m2": 20.365,
+      "EstBiomass_Mg": 0.0177
+    },
+    {
+      "MaxHeight_m": 24.13,
+      "CrownArea_m2": 16.022,
+      "EstBiomass_Mg": 0.0128
+    },
+    {
+      "MaxHeight_m": 17.13,
+      "CrownArea_m2": 13.367,
+      "EstBiomass_Mg": 0.008
+    },
+    {
+      "MaxHeight_m": 6.61,
+      "CrownArea_m2": 0.194,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 12.83,
+      "CrownArea_m2": 2.872,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 18.85,
+      "CrownArea_m2": 9.29,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 21.46,
+      "CrownArea_m2": 6.805,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 16.01,
+      "CrownArea_m2": 16.285,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 24.36,
+      "CrownArea_m2": 9.692,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 5.87,
+      "CrownArea_m2": 0.245,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 22.42,
+      "CrownArea_m2": 9.049,
+      "EstBiomass_Mg": 0.0072
+    },
+    {
+      "MaxHeight_m": 18.46,
+      "CrownArea_m2": 13.958,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 26.06,
+      "CrownArea_m2": 11.729,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 20.3,
+      "CrownArea_m2": 18.952,
+      "EstBiomass_Mg": 0.0127
+    },
+    {
+      "MaxHeight_m": 26.67,
+      "CrownArea_m2": 11.038,
+      "EstBiomass_Mg": 0.01
+    },
+    {
+      "MaxHeight_m": 17.91,
+      "CrownArea_m2": 5.106,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 20.06,
+      "CrownArea_m2": 5.52,
+      "EstBiomass_Mg": 0.0041
+    },
+    {
+      "MaxHeight_m": 16.14,
+      "CrownArea_m2": 8.123,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 26.86,
+      "CrownArea_m2": 31.334,
+      "EstBiomass_Mg": 0.0257
+    },
+    {
+      "MaxHeight_m": 19.37,
+      "CrownArea_m2": 8.696,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 11.26,
+      "CrownArea_m2": 1.755,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 21.66,
+      "CrownArea_m2": 8.179,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 20.2,
+      "CrownArea_m2": 22.369,
+      "EstBiomass_Mg": 0.0147
+    },
+    {
+      "MaxHeight_m": 17.05,
+      "CrownArea_m2": 9.918,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 23.1,
+      "CrownArea_m2": 19.046,
+      "EstBiomass_Mg": 0.0144
+    },
+    {
+      "MaxHeight_m": 5.02,
+      "CrownArea_m2": 1.478,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 10.39,
+      "CrownArea_m2": 1.078,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 19.8,
+      "CrownArea_m2": 31.903,
+      "EstBiomass_Mg": 0.0199
+    },
+    {
+      "MaxHeight_m": 10.19,
+      "CrownArea_m2": 3.316,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 16.79,
+      "CrownArea_m2": 7.693,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 8.73,
+      "CrownArea_m2": 1.822,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 20.17,
+      "CrownArea_m2": 17.34,
+      "EstBiomass_Mg": 0.0117
+    },
+    {
+      "MaxHeight_m": 8.84,
+      "CrownArea_m2": 0.567,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 17.4,
+      "CrownArea_m2": 11.782,
+      "EstBiomass_Mg": 0.0072
+    },
+    {
+      "MaxHeight_m": 10.45,
+      "CrownArea_m2": 1.904,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 17.94,
+      "CrownArea_m2": 18.588,
+      "EstBiomass_Mg": 0.0112
+    },
+    {
+      "MaxHeight_m": 14.88,
+      "CrownArea_m2": 7.359,
+      "EstBiomass_Mg": 0.0041
+    },
+    {
+      "MaxHeight_m": 7.08,
+      "CrownArea_m2": 0.318,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 26.15,
+      "CrownArea_m2": 20.651,
+      "EstBiomass_Mg": 0.0173
+    },
+    {
+      "MaxHeight_m": 11.27,
+      "CrownArea_m2": 0.096,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.57,
+      "CrownArea_m2": 8.433,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 18.52,
+      "CrownArea_m2": 12.799,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 9.85,
+      "CrownArea_m2": 1.491,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 5.04,
+      "CrownArea_m2": 0.222,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 5.79,
+      "CrownArea_m2": 0.359,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 17.5,
+      "CrownArea_m2": 9.431,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 9.52,
+      "CrownArea_m2": 1.846,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 24.45,
+      "CrownArea_m2": 6.427,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 25.26,
+      "CrownArea_m2": 13.78,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 20.82,
+      "CrownArea_m2": 6.526,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 16.91,
+      "CrownArea_m2": 9.911,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 22.21,
+      "CrownArea_m2": 11.854,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 8.89,
+      "CrownArea_m2": 1.511,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 6.96,
+      "CrownArea_m2": 0.31,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 5.94,
+      "CrownArea_m2": 0.135,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 5.19,
+      "CrownArea_m2": 1.367,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 9.76,
+      "CrownArea_m2": 5.345,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 17.94,
+      "CrownArea_m2": 15.3,
+      "EstBiomass_Mg": 0.0094
+    },
+    {
+      "MaxHeight_m": 19.25,
+      "CrownArea_m2": 15.708,
+      "EstBiomass_Mg": 0.0102
+    },
+    {
+      "MaxHeight_m": 11.68,
+      "CrownArea_m2": 5.153,
+      "EstBiomass_Mg": 0.0024
+    },
+    {
+      "MaxHeight_m": 20.46,
+      "CrownArea_m2": 11.499,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 6.95,
+      "CrownArea_m2": 1.151,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 17.56,
+      "CrownArea_m2": 8.686,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 9.65,
+      "CrownArea_m2": 0.407,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 19.6,
+      "CrownArea_m2": 8.819,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 14.22,
+      "CrownArea_m2": 3.565,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 16.94,
+      "CrownArea_m2": 1.806,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 16.63,
+      "CrownArea_m2": 4.972,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 22.04,
+      "CrownArea_m2": 25.036,
+      "EstBiomass_Mg": 0.0176
+    },
+    {
+      "MaxHeight_m": 17.92,
+      "CrownArea_m2": 6.985,
+      "EstBiomass_Mg": 0.0046
+    },
+    {
+      "MaxHeight_m": 20.09,
+      "CrownArea_m2": 8.053,
+      "EstBiomass_Mg": 0.0058
+    },
+    {
+      "MaxHeight_m": 16.34,
+      "CrownArea_m2": 3.675,
+      "EstBiomass_Mg": 0.0024
+    },
+    {
+      "MaxHeight_m": 18.37,
+      "CrownArea_m2": 15.52,
+      "EstBiomass_Mg": 0.0097
+    },
+    {
+      "MaxHeight_m": 23.96,
+      "CrownArea_m2": 7.226,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 22.62,
+      "CrownArea_m2": 7.343,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 21.05,
+      "CrownArea_m2": 9.765,
+      "EstBiomass_Mg": 0.0072
+    },
+    {
+      "MaxHeight_m": 11.29,
+      "CrownArea_m2": 7.264,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 27.43,
+      "CrownArea_m2": 20.777,
+      "EstBiomass_Mg": 0.0181
+    },
+    {
+      "MaxHeight_m": 14.97,
+      "CrownArea_m2": 15.676,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 14.14,
+      "CrownArea_m2": 0.937,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 24.53,
+      "CrownArea_m2": 13.871,
+      "EstBiomass_Mg": 0.0114
+    },
+    {
+      "MaxHeight_m": 5.53,
+      "CrownArea_m2": 1.787,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 18.15,
+      "CrownArea_m2": 7.256,
+      "EstBiomass_Mg": 0.0049
+    },
+    {
+      "MaxHeight_m": 12.67,
+      "CrownArea_m2": 2.906,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 5.85,
+      "CrownArea_m2": 0.583,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 12.52,
+      "CrownArea_m2": 0.258,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 20.52,
+      "CrownArea_m2": 12.885,
+      "EstBiomass_Mg": 0.0091
+    },
+    {
+      "MaxHeight_m": 8.87,
+      "CrownArea_m2": 1.018,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 22.85,
+      "CrownArea_m2": 24.372,
+      "EstBiomass_Mg": 0.0178
+    },
+    {
+      "MaxHeight_m": 5.36,
+      "CrownArea_m2": 7.556,
+      "EstBiomass_Mg": 0.0017
+    },
+    {
+      "MaxHeight_m": 20.19,
+      "CrownArea_m2": 13.614,
+      "EstBiomass_Mg": 0.0094
+    },
+    {
+      "MaxHeight_m": 25.04,
+      "CrownArea_m2": 10.275,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 20.45,
+      "CrownArea_m2": 9.105,
+      "EstBiomass_Mg": 0.0066
+    },
+    {
+      "MaxHeight_m": 7.54,
+      "CrownArea_m2": 0.314,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 16.65,
+      "CrownArea_m2": 3.16,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 23.36,
+      "CrownArea_m2": 20.567,
+      "EstBiomass_Mg": 0.0155
+    },
+    {
+      "MaxHeight_m": 23.06,
+      "CrownArea_m2": 12.035,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 10.82,
+      "CrownArea_m2": 4.438,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 26.46,
+      "CrownArea_m2": 12.112,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 15.54,
+      "CrownArea_m2": 4.404,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 12.17,
+      "CrownArea_m2": 1.918,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 7.62,
+      "CrownArea_m2": 0.505,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 6.08,
+      "CrownArea_m2": 0.754,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 10.83,
+      "CrownArea_m2": 0.387,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 20.58,
+      "CrownArea_m2": 11.347,
+      "EstBiomass_Mg": 0.0081
+    },
+    {
+      "MaxHeight_m": 25.09,
+      "CrownArea_m2": 20.208,
+      "EstBiomass_Mg": 0.0163
+    },
+    {
+      "MaxHeight_m": 7.15,
+      "CrownArea_m2": 3.028,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 24.62,
+      "CrownArea_m2": 31.048,
+      "EstBiomass_Mg": 0.0236
+    },
+    {
+      "MaxHeight_m": 14.58,
+      "CrownArea_m2": 5.325,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 24.53,
+      "CrownArea_m2": 18.675,
+      "EstBiomass_Mg": 0.0149
+    },
+    {
+      "MaxHeight_m": 19.18,
+      "CrownArea_m2": 2.876,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 10.59,
+      "CrownArea_m2": 0.746,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 20.9,
+      "CrownArea_m2": 13.261,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 15.59,
+      "CrownArea_m2": 5.301,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 5.53,
+      "CrownArea_m2": 0.062,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 8.01,
+      "CrownArea_m2": 1.477,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 20.47,
+      "CrownArea_m2": 7.347,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 17.97,
+      "CrownArea_m2": 4.221,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 15.15,
+      "CrownArea_m2": 3.548,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 16.8,
+      "CrownArea_m2": 9.477,
+      "EstBiomass_Mg": 0.0058
+    },
+    {
+      "MaxHeight_m": 24.76,
+      "CrownArea_m2": 19.934,
+      "EstBiomass_Mg": 0.0159
+    },
+    {
+      "MaxHeight_m": 12.69,
+      "CrownArea_m2": 6.017,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 25.96,
+      "CrownArea_m2": 11.067,
+      "EstBiomass_Mg": 0.0098
+    },
+    {
+      "MaxHeight_m": 22.52,
+      "CrownArea_m2": 21.194,
+      "EstBiomass_Mg": 0.0155
+    },
+    {
+      "MaxHeight_m": 25.7,
+      "CrownArea_m2": 9.946,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 20.65,
+      "CrownArea_m2": 14.718,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 15.21,
+      "CrownArea_m2": 0.712,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 9.83,
+      "CrownArea_m2": 4.868,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 5.94,
+      "CrownArea_m2": 1.846,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 23.57,
+      "CrownArea_m2": 9.614,
+      "EstBiomass_Mg": 0.0079
+    },
+    {
+      "MaxHeight_m": 10.12,
+      "CrownArea_m2": 0.548,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 5.89,
+      "CrownArea_m2": 0.243,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.38,
+      "CrownArea_m2": 9.693,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 22.74,
+      "CrownArea_m2": 13.987,
+      "EstBiomass_Mg": 0.0107
+    },
+    {
+      "MaxHeight_m": 14.51,
+      "CrownArea_m2": 2.114,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 24.24,
+      "CrownArea_m2": 15.443,
+      "EstBiomass_Mg": 0.0124
+    },
+    {
+      "MaxHeight_m": 6.72,
+      "CrownArea_m2": 2.001,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 16.65,
+      "CrownArea_m2": 12.082,
+      "EstBiomass_Mg": 0.0071
+    },
+    {
+      "MaxHeight_m": 21.6,
+      "CrownArea_m2": 12.828,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 5.08,
+      "CrownArea_m2": 0.941,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 12.13,
+      "CrownArea_m2": 1.807,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 25.83,
+      "CrownArea_m2": 33.566,
+      "EstBiomass_Mg": 0.0264
+    },
+    {
+      "MaxHeight_m": 22.49,
+      "CrownArea_m2": 38.354,
+      "EstBiomass_Mg": 0.0263
+    },
+    {
+      "MaxHeight_m": 20.86,
+      "CrownArea_m2": 4.022,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 22.42,
+      "CrownArea_m2": 19.583,
+      "EstBiomass_Mg": 0.0143
+    },
+    {
+      "MaxHeight_m": 13.54,
+      "CrownArea_m2": 3.74,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 12.15,
+      "CrownArea_m2": 10.141,
+      "EstBiomass_Mg": 0.0046
+    },
+    {
+      "MaxHeight_m": 14.1,
+      "CrownArea_m2": 0.662,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 14.79,
+      "CrownArea_m2": 2.326,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 23.93,
+      "CrownArea_m2": 4.849,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 8.33,
+      "CrownArea_m2": 1.719,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 23.3,
+      "CrownArea_m2": 15.53,
+      "EstBiomass_Mg": 0.012
+    },
+    {
+      "MaxHeight_m": 25.09,
+      "CrownArea_m2": 25.883,
+      "EstBiomass_Mg": 0.0204
+    },
+    {
+      "MaxHeight_m": 26.02,
+      "CrownArea_m2": 16.373,
+      "EstBiomass_Mg": 0.014
+    },
+    {
+      "MaxHeight_m": 10.6,
+      "CrownArea_m2": 0.968,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 21.25,
+      "CrownArea_m2": 10.564,
+      "EstBiomass_Mg": 0.0078
+    },
+    {
+      "MaxHeight_m": 31.84,
+      "CrownArea_m2": 36.014,
+      "EstBiomass_Mg": 0.034
+    },
+    {
+      "MaxHeight_m": 27.91,
+      "CrownArea_m2": 36.378,
+      "EstBiomass_Mg": 0.0305
+    },
+    {
+      "MaxHeight_m": 22.88,
+      "CrownArea_m2": 5.549,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 22.52,
+      "CrownArea_m2": 19.996,
+      "EstBiomass_Mg": 0.0147
+    },
+    {
+      "MaxHeight_m": 5.98,
+      "CrownArea_m2": 2.427,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 10.19,
+      "CrownArea_m2": 0.097,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.48,
+      "CrownArea_m2": 9.378,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 21.98,
+      "CrownArea_m2": 12.56,
+      "EstBiomass_Mg": 0.0094
+    },
+    {
+      "MaxHeight_m": 23.65,
+      "CrownArea_m2": 4.898,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 22.5,
+      "CrownArea_m2": 9.526,
+      "EstBiomass_Mg": 0.0075
+    },
+    {
+      "MaxHeight_m": 5.92,
+      "CrownArea_m2": 9.225,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 17.57,
+      "CrownArea_m2": 0.993,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 14.37,
+      "CrownArea_m2": 5.526,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 22.3,
+      "CrownArea_m2": 22.974,
+      "EstBiomass_Mg": 0.0165
+    },
+    {
+      "MaxHeight_m": 22.86,
+      "CrownArea_m2": 17.55,
+      "EstBiomass_Mg": 0.0132
+    },
+    {
+      "MaxHeight_m": 15.08,
+      "CrownArea_m2": 1.782,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 18.59,
+      "CrownArea_m2": 1.964,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 18.35,
+      "CrownArea_m2": 5.012,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 21.01,
+      "CrownArea_m2": 17.647,
+      "EstBiomass_Mg": 0.0123
+    },
+    {
+      "MaxHeight_m": 24.65,
+      "CrownArea_m2": 13.29,
+      "EstBiomass_Mg": 0.011
+    },
+    {
+      "MaxHeight_m": 10.44,
+      "CrownArea_m2": 2.568,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 10.78,
+      "CrownArea_m2": 0.614,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 7.53,
+      "CrownArea_m2": 1.284,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 22.53,
+      "CrownArea_m2": 12.784,
+      "EstBiomass_Mg": 0.0098
+    },
+    {
+      "MaxHeight_m": 21.94,
+      "CrownArea_m2": 14.637,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 26.62,
+      "CrownArea_m2": 19.654,
+      "EstBiomass_Mg": 0.0168
+    },
+    {
+      "MaxHeight_m": 20.07,
+      "CrownArea_m2": 4.601,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 12.59,
+      "CrownArea_m2": 4.605,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 5.42,
+      "CrownArea_m2": 2.084,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 20.56,
+      "CrownArea_m2": 13.476,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 24.12,
+      "CrownArea_m2": 15.613,
+      "EstBiomass_Mg": 0.0125
+    },
+    {
+      "MaxHeight_m": 13.42,
+      "CrownArea_m2": 2.445,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 22.33,
+      "CrownArea_m2": 13.261,
+      "EstBiomass_Mg": 0.0101
+    },
+    {
+      "MaxHeight_m": 13.25,
+      "CrownArea_m2": 6.526,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 23.27,
+      "CrownArea_m2": 27.728,
+      "EstBiomass_Mg": 0.0203
+    },
+    {
+      "MaxHeight_m": 23.75,
+      "CrownArea_m2": 15.828,
+      "EstBiomass_Mg": 0.0125
+    },
+    {
+      "MaxHeight_m": 20.03,
+      "CrownArea_m2": 3.101,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 19.9,
+      "CrownArea_m2": 11.547,
+      "EstBiomass_Mg": 0.008
+    },
+    {
+      "MaxHeight_m": 18.82,
+      "CrownArea_m2": 2.699,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 18.04,
+      "CrownArea_m2": 6.065,
+      "EstBiomass_Mg": 0.0041
+    },
+    {
+      "MaxHeight_m": 7.3,
+      "CrownArea_m2": 1.354,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 8,
+      "CrownArea_m2": 1.812,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 19.43,
+      "CrownArea_m2": 3.155,
+      "EstBiomass_Mg": 0.0024
+    },
+    {
+      "MaxHeight_m": 24.96,
+      "CrownArea_m2": 11.083,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 26.07,
+      "CrownArea_m2": 16.607,
+      "EstBiomass_Mg": 0.0142
+    },
+    {
+      "MaxHeight_m": 11.17,
+      "CrownArea_m2": 7.411,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 18.73,
+      "CrownArea_m2": 11.115,
+      "EstBiomass_Mg": 0.0073
+    },
+    {
+      "MaxHeight_m": 20.09,
+      "CrownArea_m2": 8.295,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 23.14,
+      "CrownArea_m2": 10.988,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 16.43,
+      "CrownArea_m2": 1.28,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 14.21,
+      "CrownArea_m2": 1.519,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 23.7,
+      "CrownArea_m2": 21.651,
+      "EstBiomass_Mg": 0.0165
+    },
+    {
+      "MaxHeight_m": 11.66,
+      "CrownArea_m2": 3.906,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 24.48,
+      "CrownArea_m2": 20.716,
+      "EstBiomass_Mg": 0.0163
+    },
+    {
+      "MaxHeight_m": 22.72,
+      "CrownArea_m2": 7.225,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 20.97,
+      "CrownArea_m2": 6.91,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 23.57,
+      "CrownArea_m2": 9.188,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 25.04,
+      "CrownArea_m2": 21.149,
+      "EstBiomass_Mg": 0.017
+    },
+    {
+      "MaxHeight_m": 18.63,
+      "CrownArea_m2": 8.026,
+      "EstBiomass_Mg": 0.0054
+    },
+    {
+      "MaxHeight_m": 5.59,
+      "CrownArea_m2": 0.345,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 10.58,
+      "CrownArea_m2": 1.755,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 28.45,
+      "CrownArea_m2": 26.637,
+      "EstBiomass_Mg": 0.0234
+    },
+    {
+      "MaxHeight_m": 25.23,
+      "CrownArea_m2": 10.767,
+      "EstBiomass_Mg": 0.0093
+    },
+    {
+      "MaxHeight_m": 16.28,
+      "CrownArea_m2": 2.314,
+      "EstBiomass_Mg": 0.0016
+    },
+    {
+      "MaxHeight_m": 19,
+      "CrownArea_m2": 8.921,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 6.87,
+      "CrownArea_m2": 0.574,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 11.55,
+      "CrownArea_m2": 3.072,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 23.25,
+      "CrownArea_m2": 7.971,
+      "EstBiomass_Mg": 0.0066
+    },
+    {
+      "MaxHeight_m": 21.18,
+      "CrownArea_m2": 8.498,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 21.39,
+      "CrownArea_m2": 14.859,
+      "EstBiomass_Mg": 0.0107
+    },
+    {
+      "MaxHeight_m": 15.56,
+      "CrownArea_m2": 4.726,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 5.47,
+      "CrownArea_m2": 0.292,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 24.19,
+      "CrownArea_m2": 30.228,
+      "EstBiomass_Mg": 0.0227
+    },
+    {
+      "MaxHeight_m": 24.92,
+      "CrownArea_m2": 23.515,
+      "EstBiomass_Mg": 0.0186
+    },
+    {
+      "MaxHeight_m": 22.16,
+      "CrownArea_m2": 3.989,
+      "EstBiomass_Mg": 0.0034
+    },
+    {
+      "MaxHeight_m": 26.49,
+      "CrownArea_m2": 9.655,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 19.49,
+      "CrownArea_m2": 7.85,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 16.55,
+      "CrownArea_m2": 9.419,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 19.98,
+      "CrownArea_m2": 11.597,
+      "EstBiomass_Mg": 0.0081
+    },
+    {
+      "MaxHeight_m": 24.19,
+      "CrownArea_m2": 13.405,
+      "EstBiomass_Mg": 0.0109
+    },
+    {
+      "MaxHeight_m": 21.83,
+      "CrownArea_m2": 14.104,
+      "EstBiomass_Mg": 0.0104
+    },
+    {
+      "MaxHeight_m": 16.68,
+      "CrownArea_m2": 13.444,
+      "EstBiomass_Mg": 0.0078
+    },
+    {
+      "MaxHeight_m": 23.82,
+      "CrownArea_m2": 1.462,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 8.25,
+      "CrownArea_m2": 0.735,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 21.9,
+      "CrownArea_m2": 18.257,
+      "EstBiomass_Mg": 0.0132
+    },
+    {
+      "MaxHeight_m": 14.52,
+      "CrownArea_m2": 7.967,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 9.21,
+      "CrownArea_m2": 2.106,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 26.69,
+      "CrownArea_m2": 4.808,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 21.77,
+      "CrownArea_m2": 10.118,
+      "EstBiomass_Mg": 0.0077
+    },
+    {
+      "MaxHeight_m": 23.11,
+      "CrownArea_m2": 20.27,
+      "EstBiomass_Mg": 0.0152
+    },
+    {
+      "MaxHeight_m": 22.93,
+      "CrownArea_m2": 11.142,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 19.67,
+      "CrownArea_m2": 7.916,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 24.12,
+      "CrownArea_m2": 19.505,
+      "EstBiomass_Mg": 0.0153
+    },
+    {
+      "MaxHeight_m": 5.76,
+      "CrownArea_m2": 0.207,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 10.22,
+      "CrownArea_m2": 1.965,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 21.56,
+      "CrownArea_m2": 17.345,
+      "EstBiomass_Mg": 0.0124
+    },
+    {
+      "MaxHeight_m": 26.1,
+      "CrownArea_m2": 15.579,
+      "EstBiomass_Mg": 0.0134
+    },
+    {
+      "MaxHeight_m": 27.61,
+      "CrownArea_m2": 19.715,
+      "EstBiomass_Mg": 0.0174
+    },
+    {
+      "MaxHeight_m": 23.08,
+      "CrownArea_m2": 11.607,
+      "EstBiomass_Mg": 0.0092
+    },
+    {
+      "MaxHeight_m": 10.24,
+      "CrownArea_m2": 3.468,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 9.02,
+      "CrownArea_m2": 0.357,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 9.11,
+      "CrownArea_m2": 0.394,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 22.47,
+      "CrownArea_m2": 15.455,
+      "EstBiomass_Mg": 0.0116
+    },
+    {
+      "MaxHeight_m": 23.74,
+      "CrownArea_m2": 19.367,
+      "EstBiomass_Mg": 0.0149
+    },
+    {
+      "MaxHeight_m": 15.8,
+      "CrownArea_m2": 1.626,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 19.41,
+      "CrownArea_m2": 16.052,
+      "EstBiomass_Mg": 0.0105
+    },
+    {
+      "MaxHeight_m": 9.07,
+      "CrownArea_m2": 0.522,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 13.58,
+      "CrownArea_m2": 9.93,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 22.06,
+      "CrownArea_m2": 7.226,
+      "EstBiomass_Mg": 0.0058
+    },
+    {
+      "MaxHeight_m": 6.23,
+      "CrownArea_m2": 0.984,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 23.86,
+      "CrownArea_m2": 32.899,
+      "EstBiomass_Mg": 0.0242
+    },
+    {
+      "MaxHeight_m": 23.86,
+      "CrownArea_m2": 18.14,
+      "EstBiomass_Mg": 0.0142
+    },
+    {
+      "MaxHeight_m": 21.8,
+      "CrownArea_m2": 11.593,
+      "EstBiomass_Mg": 0.0087
+    },
+    {
+      "MaxHeight_m": 11.26,
+      "CrownArea_m2": 0.074,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 17.35,
+      "CrownArea_m2": 4.805,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 27.33,
+      "CrownArea_m2": 28.605,
+      "EstBiomass_Mg": 0.0241
+    },
+    {
+      "MaxHeight_m": 30.94,
+      "CrownArea_m2": 34.593,
+      "EstBiomass_Mg": 0.032
+    },
+    {
+      "MaxHeight_m": 19.02,
+      "CrownArea_m2": 16.926,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 21.32,
+      "CrownArea_m2": 14.282,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 5.82,
+      "CrownArea_m2": 0.217,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 24.29,
+      "CrownArea_m2": 13.025,
+      "EstBiomass_Mg": 0.0107
+    },
+    {
+      "MaxHeight_m": 6.16,
+      "CrownArea_m2": 0.303,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 7.9,
+      "CrownArea_m2": 0.227,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 16.55,
+      "CrownArea_m2": 6.752,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 24.29,
+      "CrownArea_m2": 6.027,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 11.32,
+      "CrownArea_m2": 2.131,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 25.31,
+      "CrownArea_m2": 16.34,
+      "EstBiomass_Mg": 0.0136
+    },
+    {
+      "MaxHeight_m": 25.06,
+      "CrownArea_m2": 16.426,
+      "EstBiomass_Mg": 0.0135
+    },
+    {
+      "MaxHeight_m": 6.05,
+      "CrownArea_m2": 1.668,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 18.17,
+      "CrownArea_m2": 8.449,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 10.77,
+      "CrownArea_m2": 3.605,
+      "EstBiomass_Mg": 0.0016
+    },
+    {
+      "MaxHeight_m": 23.42,
+      "CrownArea_m2": 6.227,
+      "EstBiomass_Mg": 0.0053
+    },
+    {
+      "MaxHeight_m": 13.01,
+      "CrownArea_m2": 2.837,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 14.91,
+      "CrownArea_m2": 1.715,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 18.58,
+      "CrownArea_m2": 8.793,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 9.07,
+      "CrownArea_m2": 2.956,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 17.74,
+      "CrownArea_m2": 5.998,
+      "EstBiomass_Mg": 0.004
+    },
+    {
+      "MaxHeight_m": 17.7,
+      "CrownArea_m2": 14.77,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 24.38,
+      "CrownArea_m2": 30.22,
+      "EstBiomass_Mg": 0.0228
+    },
+    {
+      "MaxHeight_m": 24.83,
+      "CrownArea_m2": 13.11,
+      "EstBiomass_Mg": 0.011
+    },
+    {
+      "MaxHeight_m": 22.76,
+      "CrownArea_m2": 6.817,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 24.67,
+      "CrownArea_m2": 30.63,
+      "EstBiomass_Mg": 0.0234
+    },
+    {
+      "MaxHeight_m": 12.76,
+      "CrownArea_m2": 2.034,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 22.86,
+      "CrownArea_m2": 18.479,
+      "EstBiomass_Mg": 0.0138
+    },
+    {
+      "MaxHeight_m": 19.34,
+      "CrownArea_m2": 15.826,
+      "EstBiomass_Mg": 0.0104
+    },
+    {
+      "MaxHeight_m": 11.09,
+      "CrownArea_m2": 4.357,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 19.58,
+      "CrownArea_m2": 12.744,
+      "EstBiomass_Mg": 0.0086
+    },
+    {
+      "MaxHeight_m": 5.97,
+      "CrownArea_m2": 0.571,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 12.99,
+      "CrownArea_m2": 1.233,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 13.72,
+      "CrownArea_m2": 1.507,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 5.25,
+      "CrownArea_m2": 0.239,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 11.83,
+      "CrownArea_m2": 2.033,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 19.37,
+      "CrownArea_m2": 8.689,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 10.16,
+      "CrownArea_m2": 0.344,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 17.92,
+      "CrownArea_m2": 6.66,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 13.48,
+      "CrownArea_m2": 6.788,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 13.53,
+      "CrownArea_m2": 3.399,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 25.69,
+      "CrownArea_m2": 5.905,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 20.77,
+      "CrownArea_m2": 12.815,
+      "EstBiomass_Mg": 0.0091
+    },
+    {
+      "MaxHeight_m": 20.26,
+      "CrownArea_m2": 16.673,
+      "EstBiomass_Mg": 0.0113
+    },
+    {
+      "MaxHeight_m": 18.05,
+      "CrownArea_m2": 4.275,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 14.46,
+      "CrownArea_m2": 13.195,
+      "EstBiomass_Mg": 0.0068
+    },
+    {
+      "MaxHeight_m": 13.24,
+      "CrownArea_m2": 4.461,
+      "EstBiomass_Mg": 0.0024
+    },
+    {
+      "MaxHeight_m": 14.31,
+      "CrownArea_m2": 2.384,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 20.44,
+      "CrownArea_m2": 10.089,
+      "EstBiomass_Mg": 0.0073
+    },
+    {
+      "MaxHeight_m": 20.43,
+      "CrownArea_m2": 43.55,
+      "EstBiomass_Mg": 0.0271
+    },
+    {
+      "MaxHeight_m": 23.84,
+      "CrownArea_m2": 14.913,
+      "EstBiomass_Mg": 0.0119
+    },
+    {
+      "MaxHeight_m": 17.46,
+      "CrownArea_m2": 4.245,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 22.67,
+      "CrownArea_m2": 20.184,
+      "EstBiomass_Mg": 0.0149
+    },
+    {
+      "MaxHeight_m": 22.3,
+      "CrownArea_m2": 26.433,
+      "EstBiomass_Mg": 0.0187
+    },
+    {
+      "MaxHeight_m": 20.89,
+      "CrownArea_m2": 3.033,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 20.91,
+      "CrownArea_m2": 13.929,
+      "EstBiomass_Mg": 0.0099
+    },
+    {
+      "MaxHeight_m": 16.22,
+      "CrownArea_m2": 8.442,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 23.24,
+      "CrownArea_m2": 19.463,
+      "EstBiomass_Mg": 0.0147
+    },
+    {
+      "MaxHeight_m": 20.39,
+      "CrownArea_m2": 5.085,
+      "EstBiomass_Mg": 0.0039
+    },
+    {
+      "MaxHeight_m": 11.47,
+      "CrownArea_m2": 8.108,
+      "EstBiomass_Mg": 0.0035
+    },
+    {
+      "MaxHeight_m": 23.03,
+      "CrownArea_m2": 23.382,
+      "EstBiomass_Mg": 0.0172
+    },
+    {
+      "MaxHeight_m": 18.39,
+      "CrownArea_m2": 9.455,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 25.16,
+      "CrownArea_m2": 28.481,
+      "EstBiomass_Mg": 0.0223
+    },
+    {
+      "MaxHeight_m": 14.53,
+      "CrownArea_m2": 8.187,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 19.57,
+      "CrownArea_m2": 10.19,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 22.91,
+      "CrownArea_m2": 7.241,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 15.86,
+      "CrownArea_m2": 10.152,
+      "EstBiomass_Mg": 0.0058
+    },
+    {
+      "MaxHeight_m": 24.09,
+      "CrownArea_m2": 7.337,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 9.11,
+      "CrownArea_m2": 1.317,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 18.69,
+      "CrownArea_m2": 4.129,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 21.64,
+      "CrownArea_m2": 3.029,
+      "EstBiomass_Mg": 0.0026
+    },
+    {
+      "MaxHeight_m": 24.93,
+      "CrownArea_m2": 15.629,
+      "EstBiomass_Mg": 0.0129
+    },
+    {
+      "MaxHeight_m": 19.35,
+      "CrownArea_m2": 11.264,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 16.65,
+      "CrownArea_m2": 2.95,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 22.84,
+      "CrownArea_m2": 13.033,
+      "EstBiomass_Mg": 0.0101
+    },
+    {
+      "MaxHeight_m": 20.34,
+      "CrownArea_m2": 3.356,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 20.87,
+      "CrownArea_m2": 7.561,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 19.5,
+      "CrownArea_m2": 17.897,
+      "EstBiomass_Mg": 0.0117
+    },
+    {
+      "MaxHeight_m": 15.86,
+      "CrownArea_m2": 2.231,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 20.68,
+      "CrownArea_m2": 8.869,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 22.1,
+      "CrownArea_m2": 19.902,
+      "EstBiomass_Mg": 0.0144
+    },
+    {
+      "MaxHeight_m": 15.19,
+      "CrownArea_m2": 5.69,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 6.38,
+      "CrownArea_m2": 0.17,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.7,
+      "CrownArea_m2": 20.38,
+      "EstBiomass_Mg": 0.0126
+    },
+    {
+      "MaxHeight_m": 16.51,
+      "CrownArea_m2": 1.993,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 9.51,
+      "CrownArea_m2": 7.426,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 19.88,
+      "CrownArea_m2": 5.997,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 12.98,
+      "CrownArea_m2": 3.893,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 24.6,
+      "CrownArea_m2": 17.714,
+      "EstBiomass_Mg": 0.0142
+    },
+    {
+      "MaxHeight_m": 23.94,
+      "CrownArea_m2": 17.698,
+      "EstBiomass_Mg": 0.0139
+    },
+    {
+      "MaxHeight_m": 23.65,
+      "CrownArea_m2": 21.095,
+      "EstBiomass_Mg": 0.0161
+    },
+    {
+      "MaxHeight_m": 22.9,
+      "CrownArea_m2": 10.951,
+      "EstBiomass_Mg": 0.0087
+    },
+    {
+      "MaxHeight_m": 5.57,
+      "CrownArea_m2": 14.646,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 22.73,
+      "CrownArea_m2": 4.937,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 21.38,
+      "CrownArea_m2": 10.984,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 23.58,
+      "CrownArea_m2": 8.947,
+      "EstBiomass_Mg": 0.0074
+    },
+    {
+      "MaxHeight_m": 24.01,
+      "CrownArea_m2": 12.97,
+      "EstBiomass_Mg": 0.0105
+    },
+    {
+      "MaxHeight_m": 9.43,
+      "CrownArea_m2": 2.511,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 20.69,
+      "CrownArea_m2": 19.237,
+      "EstBiomass_Mg": 0.0131
+    },
+    {
+      "MaxHeight_m": 20.03,
+      "CrownArea_m2": 9.067,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 19.01,
+      "CrownArea_m2": 5.029,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 17.47,
+      "CrownArea_m2": 16.91,
+      "EstBiomass_Mg": 0.01
+    },
+    {
+      "MaxHeight_m": 19.8,
+      "CrownArea_m2": 2.683,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 20.3,
+      "CrownArea_m2": 9.292,
+      "EstBiomass_Mg": 0.0067
+    },
+    {
+      "MaxHeight_m": 22.13,
+      "CrownArea_m2": 13.762,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 24.08,
+      "CrownArea_m2": 16.832,
+      "EstBiomass_Mg": 0.0133
+    },
+    {
+      "MaxHeight_m": 21.88,
+      "CrownArea_m2": 8.885,
+      "EstBiomass_Mg": 0.0069
+    },
+    {
+      "MaxHeight_m": 26.02,
+      "CrownArea_m2": 25.682,
+      "EstBiomass_Mg": 0.0209
+    },
+    {
+      "MaxHeight_m": 15.57,
+      "CrownArea_m2": 2.988,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 18.82,
+      "CrownArea_m2": 8.693,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 20.38,
+      "CrownArea_m2": 15.318,
+      "EstBiomass_Mg": 0.0105
+    },
+    {
+      "MaxHeight_m": 15.66,
+      "CrownArea_m2": 13.942,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 20.35,
+      "CrownArea_m2": 12.294,
+      "EstBiomass_Mg": 0.0086
+    },
+    {
+      "MaxHeight_m": 19.01,
+      "CrownArea_m2": 9.536,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 7.04,
+      "CrownArea_m2": 0.563,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 20.86,
+      "CrownArea_m2": 8.285,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 10.13,
+      "CrownArea_m2": 0.691,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 22.22,
+      "CrownArea_m2": 14.383,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 22.88,
+      "CrownArea_m2": 7.877,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 6.48,
+      "CrownArea_m2": 4.717,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 10.44,
+      "CrownArea_m2": 5.479,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 8.97,
+      "CrownArea_m2": 4.527,
+      "EstBiomass_Mg": 0.0017
+    },
+    {
+      "MaxHeight_m": 10.18,
+      "CrownArea_m2": 1.216,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 20.84,
+      "CrownArea_m2": 8.378,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 17.36,
+      "CrownArea_m2": 11.416,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 8.51,
+      "CrownArea_m2": 1.496,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 5.36,
+      "CrownArea_m2": 0.056,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 21.97,
+      "CrownArea_m2": 5.109,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 10.3,
+      "CrownArea_m2": 4.404,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 23.89,
+      "CrownArea_m2": 21.886,
+      "EstBiomass_Mg": 0.0168
+    },
+    {
+      "MaxHeight_m": 22.53,
+      "CrownArea_m2": 8.197,
+      "EstBiomass_Mg": 0.0066
+    },
+    {
+      "MaxHeight_m": 21.17,
+      "CrownArea_m2": 11.626,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 19.17,
+      "CrownArea_m2": 1.879,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 27.93,
+      "CrownArea_m2": 8.758,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 9.88,
+      "CrownArea_m2": 0.799,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 25.93,
+      "CrownArea_m2": 24.523,
+      "EstBiomass_Mg": 0.02
+    },
+    {
+      "MaxHeight_m": 20.88,
+      "CrownArea_m2": 16.459,
+      "EstBiomass_Mg": 0.0115
+    },
+    {
+      "MaxHeight_m": 9.7,
+      "CrownArea_m2": 10.016,
+      "EstBiomass_Mg": 0.0037
+    },
+    {
+      "MaxHeight_m": 21.25,
+      "CrownArea_m2": 8.942,
+      "EstBiomass_Mg": 0.0067
+    },
+    {
+      "MaxHeight_m": 5.27,
+      "CrownArea_m2": 0.237,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 28,
+      "CrownArea_m2": 14.348,
+      "EstBiomass_Mg": 0.0132
+    },
+    {
+      "MaxHeight_m": 19.36,
+      "CrownArea_m2": 22.831,
+      "EstBiomass_Mg": 0.0144
+    },
+    {
+      "MaxHeight_m": 7.09,
+      "CrownArea_m2": 6.202,
+      "EstBiomass_Mg": 0.0018
+    },
+    {
+      "MaxHeight_m": 12.45,
+      "CrownArea_m2": 4.158,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 20.18,
+      "CrownArea_m2": 5.592,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 24.26,
+      "CrownArea_m2": 9.979,
+      "EstBiomass_Mg": 0.0084
+    },
+    {
+      "MaxHeight_m": 9.72,
+      "CrownArea_m2": 1.956,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 21.35,
+      "CrownArea_m2": 10.144,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 17.19,
+      "CrownArea_m2": 11.424,
+      "EstBiomass_Mg": 0.0069
+    },
+    {
+      "MaxHeight_m": 22.54,
+      "CrownArea_m2": 13.489,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 6.72,
+      "CrownArea_m2": 1.222,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 10.93,
+      "CrownArea_m2": 0.608,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 11.82,
+      "CrownArea_m2": 1.607,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 20.32,
+      "CrownArea_m2": 7.668,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 21.45,
+      "CrownArea_m2": 12.337,
+      "EstBiomass_Mg": 0.0091
+    },
+    {
+      "MaxHeight_m": 8.54,
+      "CrownArea_m2": 1.992,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 17.77,
+      "CrownArea_m2": 12.264,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 26.75,
+      "CrownArea_m2": 10.484,
+      "EstBiomass_Mg": 0.0096
+    },
+    {
+      "MaxHeight_m": 24.2,
+      "CrownArea_m2": 35.248,
+      "EstBiomass_Mg": 0.0261
+    },
+    {
+      "MaxHeight_m": 19.26,
+      "CrownArea_m2": 9.679,
+      "EstBiomass_Mg": 0.0066
+    },
+    {
+      "MaxHeight_m": 17.52,
+      "CrownArea_m2": 11.849,
+      "EstBiomass_Mg": 0.0073
+    },
+    {
+      "MaxHeight_m": 25.21,
+      "CrownArea_m2": 31.448,
+      "EstBiomass_Mg": 0.0244
+    },
+    {
+      "MaxHeight_m": 11.41,
+      "CrownArea_m2": 0.741,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 23.98,
+      "CrownArea_m2": 10.254,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 26.38,
+      "CrownArea_m2": 22.298,
+      "EstBiomass_Mg": 0.0187
+    },
+    {
+      "MaxHeight_m": 9.19,
+      "CrownArea_m2": 2.256,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 13.18,
+      "CrownArea_m2": 5.972,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 17.21,
+      "CrownArea_m2": 3.126,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 20.93,
+      "CrownArea_m2": 9.106,
+      "EstBiomass_Mg": 0.0068
+    },
+    {
+      "MaxHeight_m": 24.67,
+      "CrownArea_m2": 23.608,
+      "EstBiomass_Mg": 0.0185
+    },
+    {
+      "MaxHeight_m": 12.35,
+      "CrownArea_m2": 3.575,
+      "EstBiomass_Mg": 0.0018
+    },
+    {
+      "MaxHeight_m": 17.83,
+      "CrownArea_m2": 9.882,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 16.78,
+      "CrownArea_m2": 8.482,
+      "EstBiomass_Mg": 0.0052
+    },
+    {
+      "MaxHeight_m": 23.76,
+      "CrownArea_m2": 16.824,
+      "EstBiomass_Mg": 0.0132
+    },
+    {
+      "MaxHeight_m": 16.63,
+      "CrownArea_m2": 7.137,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 25.94,
+      "CrownArea_m2": 35.797,
+      "EstBiomass_Mg": 0.0281
+    },
+    {
+      "MaxHeight_m": 7.14,
+      "CrownArea_m2": 0.613,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 6.56,
+      "CrownArea_m2": 0.18,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 19.5,
+      "CrownArea_m2": 4.933,
+      "EstBiomass_Mg": 0.0037
+    },
+    {
+      "MaxHeight_m": 26.47,
+      "CrownArea_m2": 13.482,
+      "EstBiomass_Mg": 0.0119
+    },
+    {
+      "MaxHeight_m": 19.44,
+      "CrownArea_m2": 10.421,
+      "EstBiomass_Mg": 0.0071
+    },
+    {
+      "MaxHeight_m": 19.27,
+      "CrownArea_m2": 7.031,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 17.23,
+      "CrownArea_m2": 10.328,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 10.24,
+      "CrownArea_m2": 1.119,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 12.01,
+      "CrownArea_m2": 1.439,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 15.9,
+      "CrownArea_m2": 6.31,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 22.09,
+      "CrownArea_m2": 25.559,
+      "EstBiomass_Mg": 0.018
+    },
+    {
+      "MaxHeight_m": 28.46,
+      "CrownArea_m2": 15.976,
+      "EstBiomass_Mg": 0.0148
+    },
+    {
+      "MaxHeight_m": 24.75,
+      "CrownArea_m2": 15.617,
+      "EstBiomass_Mg": 0.0128
+    },
+    {
+      "MaxHeight_m": 12.46,
+      "CrownArea_m2": 4.028,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 22.2,
+      "CrownArea_m2": 4.657,
+      "EstBiomass_Mg": 0.0039
+    },
+    {
+      "MaxHeight_m": 11.16,
+      "CrownArea_m2": 5.158,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 13.65,
+      "CrownArea_m2": 9.576,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 13.15,
+      "CrownArea_m2": 5.968,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 10.63,
+      "CrownArea_m2": 1.536,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 24.92,
+      "CrownArea_m2": 9.801,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 24.49,
+      "CrownArea_m2": 6.892,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 14.42,
+      "CrownArea_m2": 6.117,
+      "EstBiomass_Mg": 0.0034
+    },
+    {
+      "MaxHeight_m": 16.93,
+      "CrownArea_m2": 2.992,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 18.05,
+      "CrownArea_m2": 5.602,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 18.28,
+      "CrownArea_m2": 11.269,
+      "EstBiomass_Mg": 0.0073
+    },
+    {
+      "MaxHeight_m": 25.37,
+      "CrownArea_m2": 13.139,
+      "EstBiomass_Mg": 0.0112
+    },
+    {
+      "MaxHeight_m": 12.03,
+      "CrownArea_m2": 3.528,
+      "EstBiomass_Mg": 0.0018
+    },
+    {
+      "MaxHeight_m": 21.75,
+      "CrownArea_m2": 17.885,
+      "EstBiomass_Mg": 0.0129
+    },
+    {
+      "MaxHeight_m": 23.19,
+      "CrownArea_m2": 7.738,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 10.67,
+      "CrownArea_m2": 2.06,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 19.89,
+      "CrownArea_m2": 14.095,
+      "EstBiomass_Mg": 0.0096
+    },
+    {
+      "MaxHeight_m": 15.44,
+      "CrownArea_m2": 4.842,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 23.64,
+      "CrownArea_m2": 15.951,
+      "EstBiomass_Mg": 0.0125
+    },
+    {
+      "MaxHeight_m": 19.02,
+      "CrownArea_m2": 16.644,
+      "EstBiomass_Mg": 0.0107
+    },
+    {
+      "MaxHeight_m": 12.96,
+      "CrownArea_m2": 6.637,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 15.21,
+      "CrownArea_m2": 5.543,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 17.51,
+      "CrownArea_m2": 7.348,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 22.56,
+      "CrownArea_m2": 5.293,
+      "EstBiomass_Mg": 0.0044
+    },
+    {
+      "MaxHeight_m": 23.77,
+      "CrownArea_m2": 7.727,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 19.76,
+      "CrownArea_m2": 7.784,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 20.62,
+      "CrownArea_m2": 6.301,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 21.03,
+      "CrownArea_m2": 11.008,
+      "EstBiomass_Mg": 0.0081
+    },
+    {
+      "MaxHeight_m": 22.54,
+      "CrownArea_m2": 15.855,
+      "EstBiomass_Mg": 0.0119
+    },
+    {
+      "MaxHeight_m": 22.09,
+      "CrownArea_m2": 7.896,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 18.39,
+      "CrownArea_m2": 5.904,
+      "EstBiomass_Mg": 0.0041
+    },
+    {
+      "MaxHeight_m": 21.83,
+      "CrownArea_m2": 15.517,
+      "EstBiomass_Mg": 0.0114
+    },
+    {
+      "MaxHeight_m": 7.6,
+      "CrownArea_m2": 0.614,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 23.08,
+      "CrownArea_m2": 5.2,
+      "EstBiomass_Mg": 0.0045
+    },
+    {
+      "MaxHeight_m": 25.84,
+      "CrownArea_m2": 23.956,
+      "EstBiomass_Mg": 0.0195
+    },
+    {
+      "MaxHeight_m": 7.46,
+      "CrownArea_m2": 1.918,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 22.44,
+      "CrownArea_m2": 19.564,
+      "EstBiomass_Mg": 0.0143
+    },
+    {
+      "MaxHeight_m": 14.18,
+      "CrownArea_m2": 4.019,
+      "EstBiomass_Mg": 0.0023
+    },
+    {
+      "MaxHeight_m": 24.07,
+      "CrownArea_m2": 7.319,
+      "EstBiomass_Mg": 0.0063
+    },
+    {
+      "MaxHeight_m": 5.32,
+      "CrownArea_m2": 0.157,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 7.31,
+      "CrownArea_m2": 3.599,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 20.07,
+      "CrownArea_m2": 6.387,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 7.58,
+      "CrownArea_m2": 0.685,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 21.98,
+      "CrownArea_m2": 12.126,
+      "EstBiomass_Mg": 0.0091
+    },
+    {
+      "MaxHeight_m": 5.77,
+      "CrownArea_m2": 0.722,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 13.81,
+      "CrownArea_m2": 9.387,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 16.22,
+      "CrownArea_m2": 5.087,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 17.01,
+      "CrownArea_m2": 8.043,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 19.42,
+      "CrownArea_m2": 10.428,
+      "EstBiomass_Mg": 0.0071
+    },
+    {
+      "MaxHeight_m": 17.08,
+      "CrownArea_m2": 5.938,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 18.95,
+      "CrownArea_m2": 7.389,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 10.8,
+      "CrownArea_m2": 1.32,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 20.26,
+      "CrownArea_m2": 16.155,
+      "EstBiomass_Mg": 0.011
+    },
+    {
+      "MaxHeight_m": 25.01,
+      "CrownArea_m2": 15.618,
+      "EstBiomass_Mg": 0.0129
+    },
+    {
+      "MaxHeight_m": 17.23,
+      "CrownArea_m2": 5.731,
+      "EstBiomass_Mg": 0.0037
+    },
+    {
+      "MaxHeight_m": 9.16,
+      "CrownArea_m2": 1.412,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 8.77,
+      "CrownArea_m2": 0.28,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 11.67,
+      "CrownArea_m2": 1.727,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 11.26,
+      "CrownArea_m2": 2.741,
+      "EstBiomass_Mg": 0.0013
+    },
+    {
+      "MaxHeight_m": 22.53,
+      "CrownArea_m2": 13.84,
+      "EstBiomass_Mg": 0.0105
+    },
+    {
+      "MaxHeight_m": 12.8,
+      "CrownArea_m2": 0.342,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 10.14,
+      "CrownArea_m2": 0.648,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 14.56,
+      "CrownArea_m2": 1.639,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 12.32,
+      "CrownArea_m2": 1.963,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 5.85,
+      "CrownArea_m2": 0.854,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 6.26,
+      "CrownArea_m2": 12.777,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 10.58,
+      "CrownArea_m2": 4.803,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 21.43,
+      "CrownArea_m2": 14.042,
+      "EstBiomass_Mg": 0.0102
+    },
+    {
+      "MaxHeight_m": 17.07,
+      "CrownArea_m2": 5.571,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 6.86,
+      "CrownArea_m2": 0.308,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 17.2,
+      "CrownArea_m2": 4.087,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 25.28,
+      "CrownArea_m2": 19.227,
+      "EstBiomass_Mg": 0.0157
+    },
+    {
+      "MaxHeight_m": 26.13,
+      "CrownArea_m2": 9.469,
+      "EstBiomass_Mg": 0.0086
+    },
+    {
+      "MaxHeight_m": 25.29,
+      "CrownArea_m2": 3.011,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 26.57,
+      "CrownArea_m2": 14.949,
+      "EstBiomass_Mg": 0.0131
+    },
+    {
+      "MaxHeight_m": 19.8,
+      "CrownArea_m2": 6.546,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 13.26,
+      "CrownArea_m2": 2.902,
+      "EstBiomass_Mg": 0.0016
+    },
+    {
+      "MaxHeight_m": 12.98,
+      "CrownArea_m2": 1.78,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 26.04,
+      "CrownArea_m2": 29.935,
+      "EstBiomass_Mg": 0.024
+    },
+    {
+      "MaxHeight_m": 10.76,
+      "CrownArea_m2": 0.126,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 18.62,
+      "CrownArea_m2": 7.029,
+      "EstBiomass_Mg": 0.0048
+    },
+    {
+      "MaxHeight_m": 16.96,
+      "CrownArea_m2": 3.179,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 19.74,
+      "CrownArea_m2": 3.902,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 19.83,
+      "CrownArea_m2": 17.199,
+      "EstBiomass_Mg": 0.0114
+    },
+    {
+      "MaxHeight_m": 21.89,
+      "CrownArea_m2": 15.095,
+      "EstBiomass_Mg": 0.0111
+    },
+    {
+      "MaxHeight_m": 22.05,
+      "CrownArea_m2": 10.62,
+      "EstBiomass_Mg": 0.0081
+    },
+    {
+      "MaxHeight_m": 21.41,
+      "CrownArea_m2": 22.359,
+      "EstBiomass_Mg": 0.0155
+    },
+    {
+      "MaxHeight_m": 13.65,
+      "CrownArea_m2": 0.398,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 24.04,
+      "CrownArea_m2": 19.538,
+      "EstBiomass_Mg": 0.0152
+    },
+    {
+      "MaxHeight_m": 24.03,
+      "CrownArea_m2": 18.464,
+      "EstBiomass_Mg": 0.0145
+    },
+    {
+      "MaxHeight_m": 20.62,
+      "CrownArea_m2": 7.374,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 6.68,
+      "CrownArea_m2": 0.34,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 11.53,
+      "CrownArea_m2": 0.778,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 24.44,
+      "CrownArea_m2": 17.078,
+      "EstBiomass_Mg": 0.0137
+    },
+    {
+      "MaxHeight_m": 16.43,
+      "CrownArea_m2": 4.012,
+      "EstBiomass_Mg": 0.0026
+    },
+    {
+      "MaxHeight_m": 23.8,
+      "CrownArea_m2": 15.102,
+      "EstBiomass_Mg": 0.012
+    },
+    {
+      "MaxHeight_m": 14.37,
+      "CrownArea_m2": 3.88,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 21.63,
+      "CrownArea_m2": 22.714,
+      "EstBiomass_Mg": 0.0159
+    },
+    {
+      "MaxHeight_m": 26.08,
+      "CrownArea_m2": 25.248,
+      "EstBiomass_Mg": 0.0206
+    },
+    {
+      "MaxHeight_m": 23.97,
+      "CrownArea_m2": 13.835,
+      "EstBiomass_Mg": 0.0111
+    },
+    {
+      "MaxHeight_m": 22.88,
+      "CrownArea_m2": 15.776,
+      "EstBiomass_Mg": 0.012
+    },
+    {
+      "MaxHeight_m": 25.15,
+      "CrownArea_m2": 26.4,
+      "EstBiomass_Mg": 0.0208
+    },
+    {
+      "MaxHeight_m": 25.49,
+      "CrownArea_m2": 22.857,
+      "EstBiomass_Mg": 0.0185
+    },
+    {
+      "MaxHeight_m": 20.81,
+      "CrownArea_m2": 13.529,
+      "EstBiomass_Mg": 0.0096
+    },
+    {
+      "MaxHeight_m": 18.6,
+      "CrownArea_m2": 3.721,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 19.88,
+      "CrownArea_m2": 7.012,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 20.12,
+      "CrownArea_m2": 11.073,
+      "EstBiomass_Mg": 0.0078
+    },
+    {
+      "MaxHeight_m": 22.85,
+      "CrownArea_m2": 8.042,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 14.94,
+      "CrownArea_m2": 4.734,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 21.12,
+      "CrownArea_m2": 12.357,
+      "EstBiomass_Mg": 0.009
+    },
+    {
+      "MaxHeight_m": 18.52,
+      "CrownArea_m2": 3.227,
+      "EstBiomass_Mg": 0.0024
+    },
+    {
+      "MaxHeight_m": 18.93,
+      "CrownArea_m2": 8.373,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 17.78,
+      "CrownArea_m2": 9.333,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 15.06,
+      "CrownArea_m2": 4.571,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 10.25,
+      "CrownArea_m2": 1.282,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 15.43,
+      "CrownArea_m2": 24.563,
+      "EstBiomass_Mg": 0.0126
+    },
+    {
+      "MaxHeight_m": 21.47,
+      "CrownArea_m2": 17.538,
+      "EstBiomass_Mg": 0.0125
+    },
+    {
+      "MaxHeight_m": 17.24,
+      "CrownArea_m2": 20.342,
+      "EstBiomass_Mg": 0.0117
+    },
+    {
+      "MaxHeight_m": 21.56,
+      "CrownArea_m2": 12.574,
+      "EstBiomass_Mg": 0.0093
+    },
+    {
+      "MaxHeight_m": 19.13,
+      "CrownArea_m2": 8.499,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 17.72,
+      "CrownArea_m2": 9.517,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 10.68,
+      "CrownArea_m2": 6.554,
+      "EstBiomass_Mg": 0.0027
+    },
+    {
+      "MaxHeight_m": 12.72,
+      "CrownArea_m2": 1.508,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 22.09,
+      "CrownArea_m2": 21.367,
+      "EstBiomass_Mg": 0.0153
+    },
+    {
+      "MaxHeight_m": 23.45,
+      "CrownArea_m2": 2.166,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 25.27,
+      "CrownArea_m2": 21.451,
+      "EstBiomass_Mg": 0.0173
+    },
+    {
+      "MaxHeight_m": 16.83,
+      "CrownArea_m2": 5.591,
+      "EstBiomass_Mg": 0.0036
+    },
+    {
+      "MaxHeight_m": 21.51,
+      "CrownArea_m2": 27.156,
+      "EstBiomass_Mg": 0.0185
+    },
+    {
+      "MaxHeight_m": 8.94,
+      "CrownArea_m2": 0.635,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 13.8,
+      "CrownArea_m2": 3.218,
+      "EstBiomass_Mg": 0.0018
+    },
+    {
+      "MaxHeight_m": 8.27,
+      "CrownArea_m2": 4.948,
+      "EstBiomass_Mg": 0.0017
+    },
+    {
+      "MaxHeight_m": 5.98,
+      "CrownArea_m2": 0.652,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 17.34,
+      "CrownArea_m2": 8.906,
+      "EstBiomass_Mg": 0.0056
+    },
+    {
+      "MaxHeight_m": 11.93,
+      "CrownArea_m2": 3.115,
+      "EstBiomass_Mg": 0.0016
+    },
+    {
+      "MaxHeight_m": 21.28,
+      "CrownArea_m2": 10.5,
+      "EstBiomass_Mg": 0.0078
+    },
+    {
+      "MaxHeight_m": 26.89,
+      "CrownArea_m2": 11.321,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 15.77,
+      "CrownArea_m2": 0.178,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 10.63,
+      "CrownArea_m2": 2.107,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 25.65,
+      "CrownArea_m2": 8.705,
+      "EstBiomass_Mg": 0.0078
+    },
+    {
+      "MaxHeight_m": 15.38,
+      "CrownArea_m2": 12.792,
+      "EstBiomass_Mg": 0.007
+    },
+    {
+      "MaxHeight_m": 5.87,
+      "CrownArea_m2": 8.358,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 21.73,
+      "CrownArea_m2": 11.399,
+      "EstBiomass_Mg": 0.0086
+    },
+    {
+      "MaxHeight_m": 19.67,
+      "CrownArea_m2": 21.25,
+      "EstBiomass_Mg": 0.0137
+    },
+    {
+      "MaxHeight_m": 21.06,
+      "CrownArea_m2": 15.863,
+      "EstBiomass_Mg": 0.0112
+    },
+    {
+      "MaxHeight_m": 15.47,
+      "CrownArea_m2": 4.905,
+      "EstBiomass_Mg": 0.003
+    },
+    {
+      "MaxHeight_m": 12.85,
+      "CrownArea_m2": 9.049,
+      "EstBiomass_Mg": 0.0043
+    },
+    {
+      "MaxHeight_m": 16.52,
+      "CrownArea_m2": 2.908,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 9.03,
+      "CrownArea_m2": 2.41,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 9.38,
+      "CrownArea_m2": 2.343,
+      "EstBiomass_Mg": 0.001
+    },
+    {
+      "MaxHeight_m": 11.43,
+      "CrownArea_m2": 1.36,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 19.5,
+      "CrownArea_m2": 26.897,
+      "EstBiomass_Mg": 0.0168
+    },
+    {
+      "MaxHeight_m": 6.37,
+      "CrownArea_m2": 0.94,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 24.07,
+      "CrownArea_m2": 25.935,
+      "EstBiomass_Mg": 0.0197
+    },
+    {
+      "MaxHeight_m": 10.98,
+      "CrownArea_m2": 2.655,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 19.78,
+      "CrownArea_m2": 8.314,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 14.8,
+      "CrownArea_m2": 8.235,
+      "EstBiomass_Mg": 0.0045
+    },
+    {
+      "MaxHeight_m": 6.2,
+      "CrownArea_m2": 1.167,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 24.44,
+      "CrownArea_m2": 17.949,
+      "EstBiomass_Mg": 0.0143
+    },
+    {
+      "MaxHeight_m": 25.65,
+      "CrownArea_m2": 7.576,
+      "EstBiomass_Mg": 0.0069
+    },
+    {
+      "MaxHeight_m": 23.2,
+      "CrownArea_m2": 17.555,
+      "EstBiomass_Mg": 0.0134
+    },
+    {
+      "MaxHeight_m": 8.93,
+      "CrownArea_m2": 1.618,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 6.97,
+      "CrownArea_m2": 1.142,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 13.75,
+      "CrownArea_m2": 6.493,
+      "EstBiomass_Mg": 0.0034
+    },
+    {
+      "MaxHeight_m": 13.71,
+      "CrownArea_m2": 2.058,
+      "EstBiomass_Mg": 0.0012
+    },
+    {
+      "MaxHeight_m": 18.22,
+      "CrownArea_m2": 3.077,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 10.13,
+      "CrownArea_m2": 1.255,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 20.62,
+      "CrownArea_m2": 14.922,
+      "EstBiomass_Mg": 0.0104
+    },
+    {
+      "MaxHeight_m": 16.65,
+      "CrownArea_m2": 6.401,
+      "EstBiomass_Mg": 0.004
+    },
+    {
+      "MaxHeight_m": 17.07,
+      "CrownArea_m2": 12.632,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 15.82,
+      "CrownArea_m2": 5.495,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 23.52,
+      "CrownArea_m2": 10.02,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 21.87,
+      "CrownArea_m2": 5.507,
+      "EstBiomass_Mg": 0.0045
+    },
+    {
+      "MaxHeight_m": 20.94,
+      "CrownArea_m2": 13.679,
+      "EstBiomass_Mg": 0.0098
+    },
+    {
+      "MaxHeight_m": 5.94,
+      "CrownArea_m2": 0.657,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 20.1,
+      "CrownArea_m2": 3.578,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 18.99,
+      "CrownArea_m2": 7.069,
+      "EstBiomass_Mg": 0.0049
+    },
+    {
+      "MaxHeight_m": 8.4,
+      "CrownArea_m2": 0.455,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 21.25,
+      "CrownArea_m2": 14.04,
+      "EstBiomass_Mg": 0.0101
+    },
+    {
+      "MaxHeight_m": 14.59,
+      "CrownArea_m2": 27.195,
+      "EstBiomass_Mg": 0.0131
+    },
+    {
+      "MaxHeight_m": 12.46,
+      "CrownArea_m2": 0.852,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 27.23,
+      "CrownArea_m2": 19.118,
+      "EstBiomass_Mg": 0.0167
+    },
+    {
+      "MaxHeight_m": 24.56,
+      "CrownArea_m2": 9.172,
+      "EstBiomass_Mg": 0.0079
+    },
+    {
+      "MaxHeight_m": 11.47,
+      "CrownArea_m2": 2.23,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 15.96,
+      "CrownArea_m2": 2.945,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 20.26,
+      "CrownArea_m2": 10.138,
+      "EstBiomass_Mg": 0.0072
+    },
+    {
+      "MaxHeight_m": 20.76,
+      "CrownArea_m2": 11.321,
+      "EstBiomass_Mg": 0.0082
+    },
+    {
+      "MaxHeight_m": 19.56,
+      "CrownArea_m2": 5.695,
+      "EstBiomass_Mg": 0.0042
+    },
+    {
+      "MaxHeight_m": 18.25,
+      "CrownArea_m2": 3.907,
+      "EstBiomass_Mg": 0.0028
+    },
+    {
+      "MaxHeight_m": 19.77,
+      "CrownArea_m2": 31.747,
+      "EstBiomass_Mg": 0.0198
+    },
+    {
+      "MaxHeight_m": 24.01,
+      "CrownArea_m2": 13.418,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 11.14,
+      "CrownArea_m2": 0.733,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 18.81,
+      "CrownArea_m2": 9.649,
+      "EstBiomass_Mg": 0.0065
+    },
+    {
+      "MaxHeight_m": 23.55,
+      "CrownArea_m2": 10.241,
+      "EstBiomass_Mg": 0.0084
+    },
+    {
+      "MaxHeight_m": 11.85,
+      "CrownArea_m2": 1.452,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 23.41,
+      "CrownArea_m2": 16.179,
+      "EstBiomass_Mg": 0.0126
+    },
+    {
+      "MaxHeight_m": 21.07,
+      "CrownArea_m2": 19.725,
+      "EstBiomass_Mg": 0.0136
+    },
+    {
+      "MaxHeight_m": 19.94,
+      "CrownArea_m2": 7.546,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 17.11,
+      "CrownArea_m2": 13.185,
+      "EstBiomass_Mg": 0.0079
+    },
+    {
+      "MaxHeight_m": 14.96,
+      "CrownArea_m2": 3.158,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 25.06,
+      "CrownArea_m2": 5.022,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 26.97,
+      "CrownArea_m2": 21.153,
+      "EstBiomass_Mg": 0.0181
+    },
+    {
+      "MaxHeight_m": 25.45,
+      "CrownArea_m2": 16.838,
+      "EstBiomass_Mg": 0.014
+    },
+    {
+      "MaxHeight_m": 25.68,
+      "CrownArea_m2": 29.72,
+      "EstBiomass_Mg": 0.0236
+    },
+    {
+      "MaxHeight_m": 16.08,
+      "CrownArea_m2": 7.447,
+      "EstBiomass_Mg": 0.0045
+    },
+    {
+      "MaxHeight_m": 16.22,
+      "CrownArea_m2": 0.581,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 15.74,
+      "CrownArea_m2": 5.559,
+      "EstBiomass_Mg": 0.0034
+    },
+    {
+      "MaxHeight_m": 23.36,
+      "CrownArea_m2": 11.043,
+      "EstBiomass_Mg": 0.0089
+    },
+    {
+      "MaxHeight_m": 20.35,
+      "CrownArea_m2": 13.612,
+      "EstBiomass_Mg": 0.0095
+    },
+    {
+      "MaxHeight_m": 21.72,
+      "CrownArea_m2": 10.941,
+      "EstBiomass_Mg": 0.0083
+    },
+    {
+      "MaxHeight_m": 17.49,
+      "CrownArea_m2": 10.286,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 15.94,
+      "CrownArea_m2": 10.295,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 7.93,
+      "CrownArea_m2": 6.75,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 10.01,
+      "CrownArea_m2": 7.288,
+      "EstBiomass_Mg": 0.0029
+    },
+    {
+      "MaxHeight_m": 25.81,
+      "CrownArea_m2": 18.66,
+      "EstBiomass_Mg": 0.0156
+    },
+    {
+      "MaxHeight_m": 13.82,
+      "CrownArea_m2": 11.068,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 22.76,
+      "CrownArea_m2": 9.235,
+      "EstBiomass_Mg": 0.0074
+    },
+    {
+      "MaxHeight_m": 23.08,
+      "CrownArea_m2": 10.954,
+      "EstBiomass_Mg": 0.0087
+    },
+    {
+      "MaxHeight_m": 19.54,
+      "CrownArea_m2": 6.408,
+      "EstBiomass_Mg": 0.0046
+    },
+    {
+      "MaxHeight_m": 16.76,
+      "CrownArea_m2": 12.998,
+      "EstBiomass_Mg": 0.0076
+    },
+    {
+      "MaxHeight_m": 10.85,
+      "CrownArea_m2": 3.863,
+      "EstBiomass_Mg": 0.0017
+    },
+    {
+      "MaxHeight_m": 22.06,
+      "CrownArea_m2": 13.549,
+      "EstBiomass_Mg": 0.0101
+    },
+    {
+      "MaxHeight_m": 23.02,
+      "CrownArea_m2": 13.869,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 25.47,
+      "CrownArea_m2": 12.038,
+      "EstBiomass_Mg": 0.0104
+    },
+    {
+      "MaxHeight_m": 19.55,
+      "CrownArea_m2": 13.585,
+      "EstBiomass_Mg": 0.0091
+    },
+    {
+      "MaxHeight_m": 8.25,
+      "CrownArea_m2": 2.266,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 16.32,
+      "CrownArea_m2": 3.107,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 11.9,
+      "CrownArea_m2": 4.445,
+      "EstBiomass_Mg": 0.0021
+    },
+    {
+      "MaxHeight_m": 5.34,
+      "CrownArea_m2": 3.496,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 19.73,
+      "CrownArea_m2": 3.203,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 19.83,
+      "CrownArea_m2": 6.909,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 20.46,
+      "CrownArea_m2": 6.7,
+      "EstBiomass_Mg": 0.005
+    },
+    {
+      "MaxHeight_m": 13.64,
+      "CrownArea_m2": 6.093,
+      "EstBiomass_Mg": 0.0032
+    },
+    {
+      "MaxHeight_m": 24.83,
+      "CrownArea_m2": 18.795,
+      "EstBiomass_Mg": 0.0151
+    },
+    {
+      "MaxHeight_m": 10.36,
+      "CrownArea_m2": 6.048,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 19.4,
+      "CrownArea_m2": 9.182,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 8.64,
+      "CrownArea_m2": 1.163,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 19.73,
+      "CrownArea_m2": 7.983,
+      "EstBiomass_Mg": 0.0057
+    },
+    {
+      "MaxHeight_m": 25.55,
+      "CrownArea_m2": 19.965,
+      "EstBiomass_Mg": 0.0164
+    },
+    {
+      "MaxHeight_m": 15.49,
+      "CrownArea_m2": 6.724,
+      "EstBiomass_Mg": 0.0039
+    },
+    {
+      "MaxHeight_m": 18.93,
+      "CrownArea_m2": 14.801,
+      "EstBiomass_Mg": 0.0096
+    },
+    {
+      "MaxHeight_m": 6.91,
+      "CrownArea_m2": 0.492,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 11.22,
+      "CrownArea_m2": 1.718,
+      "EstBiomass_Mg": 0.0009
+    },
+    {
+      "MaxHeight_m": 24.75,
+      "CrownArea_m2": 14.463,
+      "EstBiomass_Mg": 0.0119
+    },
+    {
+      "MaxHeight_m": 17.98,
+      "CrownArea_m2": 5.598,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 20.91,
+      "CrownArea_m2": 23.607,
+      "EstBiomass_Mg": 0.0159
+    },
+    {
+      "MaxHeight_m": 21.07,
+      "CrownArea_m2": 7.089,
+      "EstBiomass_Mg": 0.0054
+    },
+    {
+      "MaxHeight_m": 15.3,
+      "CrownArea_m2": 2.236,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 22.8,
+      "CrownArea_m2": 31.894,
+      "EstBiomass_Mg": 0.0226
+    },
+    {
+      "MaxHeight_m": 17.92,
+      "CrownArea_m2": 4.839,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 16.67,
+      "CrownArea_m2": 16.086,
+      "EstBiomass_Mg": 0.0092
+    },
+    {
+      "MaxHeight_m": 20.21,
+      "CrownArea_m2": 15.86,
+      "EstBiomass_Mg": 0.0108
+    },
+    {
+      "MaxHeight_m": 21.54,
+      "CrownArea_m2": 5.969,
+      "EstBiomass_Mg": 0.0047
+    },
+    {
+      "MaxHeight_m": 17.76,
+      "CrownArea_m2": 3.118,
+      "EstBiomass_Mg": 0.0022
+    },
+    {
+      "MaxHeight_m": 20.59,
+      "CrownArea_m2": 16,
+      "EstBiomass_Mg": 0.0111
+    },
+    {
+      "MaxHeight_m": 15.24,
+      "CrownArea_m2": 0.998,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 24.37,
+      "CrownArea_m2": 20.672,
+      "EstBiomass_Mg": 0.0162
+    },
+    {
+      "MaxHeight_m": 15.73,
+      "CrownArea_m2": 5.047,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 21.22,
+      "CrownArea_m2": 12.009,
+      "EstBiomass_Mg": 0.0088
+    },
+    {
+      "MaxHeight_m": 6.97,
+      "CrownArea_m2": 0.149,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 13.62,
+      "CrownArea_m2": 11.933,
+      "EstBiomass_Mg": 0.0059
+    },
+    {
+      "MaxHeight_m": 27.36,
+      "CrownArea_m2": 21.782,
+      "EstBiomass_Mg": 0.0189
+    },
+    {
+      "MaxHeight_m": 21.29,
+      "CrownArea_m2": 11.542,
+      "EstBiomass_Mg": 0.0085
+    },
+    {
+      "MaxHeight_m": 19.53,
+      "CrownArea_m2": 9.18,
+      "EstBiomass_Mg": 0.0064
+    },
+    {
+      "MaxHeight_m": 22.69,
+      "CrownArea_m2": 19.045,
+      "EstBiomass_Mg": 0.0141
+    },
+    {
+      "MaxHeight_m": 21.34,
+      "CrownArea_m2": 27.763,
+      "EstBiomass_Mg": 0.0188
+    },
+    {
+      "MaxHeight_m": 15.66,
+      "CrownArea_m2": 5.085,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 25.74,
+      "CrownArea_m2": 16.194,
+      "EstBiomass_Mg": 0.0137
+    },
+    {
+      "MaxHeight_m": 17.65,
+      "CrownArea_m2": 9.607,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 15.97,
+      "CrownArea_m2": 1,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 25.27,
+      "CrownArea_m2": 15.229,
+      "EstBiomass_Mg": 0.0127
+    },
+    {
+      "MaxHeight_m": 12.07,
+      "CrownArea_m2": 1.322,
+      "EstBiomass_Mg": 0.0007
+    },
+    {
+      "MaxHeight_m": 27.23,
+      "CrownArea_m2": 14.192,
+      "EstBiomass_Mg": 0.0128
+    },
+    {
+      "MaxHeight_m": 14.02,
+      "CrownArea_m2": 3.249,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 24.48,
+      "CrownArea_m2": 12.311,
+      "EstBiomass_Mg": 0.0102
+    },
+    {
+      "MaxHeight_m": 26.31,
+      "CrownArea_m2": 12.808,
+      "EstBiomass_Mg": 0.0113
+    },
+    {
+      "MaxHeight_m": 6.44,
+      "CrownArea_m2": 0.878,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 25.59,
+      "CrownArea_m2": 8.283,
+      "EstBiomass_Mg": 0.0074
+    },
+    {
+      "MaxHeight_m": 14.28,
+      "CrownArea_m2": 3.504,
+      "EstBiomass_Mg": 0.002
+    },
+    {
+      "MaxHeight_m": 6.4,
+      "CrownArea_m2": 2.108,
+      "EstBiomass_Mg": 0.0006
+    },
+    {
+      "MaxHeight_m": 19.88,
+      "CrownArea_m2": 8.43,
+      "EstBiomass_Mg": 0.006
+    },
+    {
+      "MaxHeight_m": 18.74,
+      "CrownArea_m2": 15.702,
+      "EstBiomass_Mg": 0.01
+    },
+    {
+      "MaxHeight_m": 26.1,
+      "CrownArea_m2": 18.169,
+      "EstBiomass_Mg": 0.0154
+    },
+    {
+      "MaxHeight_m": 9.85,
+      "CrownArea_m2": 1.123,
+      "EstBiomass_Mg": 0.0005
+    },
+    {
+      "MaxHeight_m": 16.98,
+      "CrownArea_m2": 8.989,
+      "EstBiomass_Mg": 0.0055
+    },
+    {
+      "MaxHeight_m": 7.57,
+      "CrownArea_m2": 2.387,
+      "EstBiomass_Mg": 0.0008
+    },
+    {
+      "MaxHeight_m": 19.27,
+      "CrownArea_m2": 7.189,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 26.37,
+      "CrownArea_m2": 44.444,
+      "EstBiomass_Mg": 0.0347
+    },
+    {
+      "MaxHeight_m": 22.74,
+      "CrownArea_m2": 8.181,
+      "EstBiomass_Mg": 0.0066
+    },
+    {
+      "MaxHeight_m": 22.47,
+      "CrownArea_m2": 12.91,
+      "EstBiomass_Mg": 0.0099
+    },
+    {
+      "MaxHeight_m": 12.95,
+      "CrownArea_m2": 3.567,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 21.68,
+      "CrownArea_m2": 17.723,
+      "EstBiomass_Mg": 0.0127
+    },
+    {
+      "MaxHeight_m": 25.06,
+      "CrownArea_m2": 9.188,
+      "EstBiomass_Mg": 0.008
+    },
+    {
+      "MaxHeight_m": 21.91,
+      "CrownArea_m2": 10.003,
+      "EstBiomass_Mg": 0.0077
+    },
+    {
+      "MaxHeight_m": 15.22,
+      "CrownArea_m2": 6.554,
+      "EstBiomass_Mg": 0.0038
+    },
+    {
+      "MaxHeight_m": 22.42,
+      "CrownArea_m2": 21.09,
+      "EstBiomass_Mg": 0.0153
+    },
+    {
+      "MaxHeight_m": 22.76,
+      "CrownArea_m2": 14.88,
+      "EstBiomass_Mg": 0.0113
+    },
+    {
+      "MaxHeight_m": 22.9,
+      "CrownArea_m2": 7.412,
+      "EstBiomass_Mg": 0.0061
+    },
+    {
+      "MaxHeight_m": 21.25,
+      "CrownArea_m2": 20.187,
+      "EstBiomass_Mg": 0.014
+    },
+    {
+      "MaxHeight_m": 10.3,
+      "CrownArea_m2": 3.405,
+      "EstBiomass_Mg": 0.0015
+    },
+    {
+      "MaxHeight_m": 14.56,
+      "CrownArea_m2": 0.616,
+      "EstBiomass_Mg": 0.0004
+    },
+    {
+      "MaxHeight_m": 14.61,
+      "CrownArea_m2": 4.398,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 6.4,
+      "CrownArea_m2": 0.124,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 5.18,
+      "CrownArea_m2": 0.846,
+      "EstBiomass_Mg": 0.0002
+    },
+    {
+      "MaxHeight_m": 14.1,
+      "CrownArea_m2": 1.78,
+      "EstBiomass_Mg": 0.0011
+    },
+    {
+      "MaxHeight_m": 24.43,
+      "CrownArea_m2": 18.993,
+      "EstBiomass_Mg": 0.0151
+    },
+    {
+      "MaxHeight_m": 22.36,
+      "CrownArea_m2": 14.739,
+      "EstBiomass_Mg": 0.0111
+    },
+    {
+      "MaxHeight_m": 23.31,
+      "CrownArea_m2": 9.784,
+      "EstBiomass_Mg": 0.008
+    },
+    {
+      "MaxHeight_m": 11.32,
+      "CrownArea_m2": 3.99,
+      "EstBiomass_Mg": 0.0019
+    },
+    {
+      "MaxHeight_m": 12.04,
+      "CrownArea_m2": 5.269,
+      "EstBiomass_Mg": 0.0025
+    },
+    {
+      "MaxHeight_m": 27.53,
+      "CrownArea_m2": 13.809,
+      "EstBiomass_Mg": 0.0126
+    },
+    {
+      "MaxHeight_m": 9.12,
+      "CrownArea_m2": 0.289,
+      "EstBiomass_Mg": 0.0001
+    },
+    {
+      "MaxHeight_m": 24.05,
+      "CrownArea_m2": 23.632,
+      "EstBiomass_Mg": 0.0181
+    },
+    {
+      "MaxHeight_m": 10.15,
+      "CrownArea_m2": 0.564,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 7.67,
+      "CrownArea_m2": 0.832,
+      "EstBiomass_Mg": 0.0003
+    },
+    {
+      "MaxHeight_m": 28.33,
+      "CrownArea_m2": 10.768,
+      "EstBiomass_Mg": 0.0103
+    },
+    {
+      "MaxHeight_m": 21.04,
+      "CrownArea_m2": 4.137,
+      "EstBiomass_Mg": 0.0033
+    },
+    {
+      "MaxHeight_m": 20.17,
+      "CrownArea_m2": 8.555,
+      "EstBiomass_Mg": 0.0062
+    },
+    {
+      "MaxHeight_m": 24.02,
+      "CrownArea_m2": 18.362,
+      "EstBiomass_Mg": 0.0144
+    },
+    {
+      "MaxHeight_m": 13.33,
+      "CrownArea_m2": 6.078,
+      "EstBiomass_Mg": 0.0031
+    },
+    {
+      "MaxHeight_m": 5,
+      "CrownArea_m2": 0.105,
+      "EstBiomass_Mg": 0
+    },
+    {
+      "MaxHeight_m": 26.14,
+      "CrownArea_m2": 29.655,
+      "EstBiomass_Mg": 0.0239
+    },
+    {
+      "MaxHeight_m": 18.59,
+      "CrownArea_m2": 14.436,
+      "EstBiomass_Mg": 0.0092
+    },
+    {
+      "MaxHeight_m": 17.32,
+      "CrownArea_m2": 8.114,
+      "EstBiomass_Mg": 0.0051
+    },
+    {
+      "MaxHeight_m": 24.67,
+      "CrownArea_m2": 27.347,
+      "EstBiomass_Mg": 0.0211
+    },
+    {
+      "MaxHeight_m": 13.4,
+      "CrownArea_m2": 2.406,
+      "EstBiomass_Mg": 0.0014
+    },
+    {
+      "MaxHeight_m": 11.43,
+      "CrownArea_m2": 0.291,
+      "EstBiomass_Mg": 0.0002
+    }
+  ],
+  "biomass_summary": [
+    {
+      "height_bin": "(0,5]",
+      "total_biomass": 0.0158,
+      "count": 30
+    },
+    {
+      "height_bin": "(5,10]",
+      "total_biomass": 6.0769,
+      "count": 12044
+    },
+    {
+      "height_bin": "(10,15]",
+      "total_biomass": 23.3108,
+      "count": 11549
+    },
+    {
+      "height_bin": "(15,20]",
+      "total_biomass": 119.6766,
+      "count": 20645
+    },
+    {
+      "height_bin": "(20,25]",
+      "total_biomass": 289.7929,
+      "count": 27084
+    },
+    {
+      "height_bin": "(25,30]",
+      "total_biomass": 128.3954,
+      "count": 8076
+    },
+    {
+      "height_bin": "(30,35]",
+      "total_biomass": 8.3925,
+      "count": 347
+    },
+    {
+      "height_bin": "(35,40]",
+      "total_biomass": 0.1563,
+      "count": 5
+    }
+  ]
+}

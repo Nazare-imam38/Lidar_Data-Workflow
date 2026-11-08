@@ -1,0 +1,80 @@
+# ==============================================================================
+# .gitignore for Lidar_Data-Workflow
+# Excludes heavy binary datasets, build artifacts, and user/environment state
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. R and RStudio User & Session Files
+# ------------------------------------------------------------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# ------------------------------------------------------------------------------
+# 2. Raw & Processed LiDAR / Geospatial Data (Large Binaries)
+# ------------------------------------------------------------------------------
+# Ignore all raw and intermediate point clouds
+*.laz
+*.las
+data/raw/
+data/processed/
+data/*
+!data/.gitkeep
+
+# Ignore large output binary rasters and point clouds
+outputs/*.laz
+outputs/*.las
+outputs/*.tif
+outputs/*.tiff
+# Keep CSV inventory and .gitkeep in outputs
+!outputs/tree_inventory.csv
+!outputs/.gitkeep
+
+# ------------------------------------------------------------------------------
+# 3. Node.js & Next.js Build Artifacts and Dependencies
+# ------------------------------------------------------------------------------
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/build/
+dashboard/*.tsbuildinfo
+dashboard/next-env.d.ts
+dashboard/.pnp
+dashboard/.pnp.*
+dashboard/.yarn/*
+!dashboard/.yarn/patches
+!dashboard/.yarn/plugins
+!dashboard/.yarn/releases
+!dashboard/.yarn/versions
+
+# ------------------------------------------------------------------------------
+# 4. Logs and Environment Files
+# ------------------------------------------------------------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env
+.env*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ------------------------------------------------------------------------------
+# 5. Operating System and Editor State
+# ------------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# ------------------------------------------------------------------------------
+# 6. Research Audit Archive (Track uncompressed folder, ignore redundant .zip if needed)
+# ------------------------------------------------------------------------------
+# Keep Research_Audit_Package/ markdown & visuals tracked; zip is optional
